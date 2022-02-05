@@ -96,7 +96,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "allocators.html",
-"master_8h.html#a7e55a1052bfe4cadef166da70e6d8dca"
+"debug_8h.html#ac91629d4444a397e54ddb36094e94cf6",
+"structModbusDataCallbackArgs.html#ae1743537afa977b2d0301d0cd6d6b155"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

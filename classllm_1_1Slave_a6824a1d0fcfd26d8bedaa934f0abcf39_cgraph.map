@@ -1,8 +1,8 @@
 <map id="llm::Slave::Slave" name="llm::Slave::Slave">
 <area shape="rect" id="node1" title=" " alt="" coords="5,56,123,83"/>
-<area shape="rect" id="node2" href="$slave_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="175,19,293,45"/>
+<area shape="rect" id="node2" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="175,19,293,45"/>
 <area shape="rect" id="node4" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="171,81,297,108"/>
-<area shape="rect" id="node3" href="$base_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="373,5,493,32"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="373,5,493,32"/>
 <area shape="rect" id="node5" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="352,56,513,83"/>
 <area shape="rect" id="node7" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="351,107,515,133"/>
 <area shape="rect" id="node8" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="345,157,520,184"/>

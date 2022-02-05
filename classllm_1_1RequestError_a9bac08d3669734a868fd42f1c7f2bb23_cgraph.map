@@ -1,4 +1,0 @@
-<map id="llm::RequestError::what" name="llm::RequestError::what">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$debug_8h.html#a36b4123cba4b6399f3b743f888a50d1a" title="Returns a string containing the name of the ModbusError value." alt="" coords="208,5,320,32"/>
-</map>

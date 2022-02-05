@@ -16,9 +16,9 @@
 <area shape="rect" id="node12" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,309,214,336"/>
 <area shape="rect" id="node13" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="7,56,213,83"/>
 <area shape="rect" id="node14" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,107,169,133"/>
-<area shape="rect" id="node18" href="$slave_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="263,5,444,32"/>
-<area shape="rect" id="node19" href="$slave_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,411,443,437"/>
-<area shape="rect" id="node20" href="$slave_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="264,512,443,539"/>
-<area shape="rect" id="node21" href="$slave_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="265,613,442,640"/>
-<area shape="rect" id="node22" href="$slave_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,715,441,741"/>
+<area shape="rect" id="node18" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="263,5,444,32"/>
+<area shape="rect" id="node19" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,411,443,437"/>
+<area shape="rect" id="node20" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="264,512,443,539"/>
+<area shape="rect" id="node21" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="265,613,442,640"/>
+<area shape="rect" id="node22" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,715,441,741"/>
 </map>

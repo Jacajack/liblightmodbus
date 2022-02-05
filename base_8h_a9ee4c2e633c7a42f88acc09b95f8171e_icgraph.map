@@ -4,12 +4,12 @@
 <area shape="rect" id="node3" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="5,44,200,70"/>
 <area shape="rect" id="node4" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="5,120,200,146"/>
 <area shape="rect" id="node5" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="6,233,199,260"/>
-<area shape="rect" id="node6" href="$slave_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="262,56,443,82"/>
-<area shape="rect" id="node7" href="$slave_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,157,443,184"/>
-<area shape="rect" id="node8" href="$slave_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="263,258,442,285"/>
-<area shape="rect" id="node9" href="$slave_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="264,309,441,336"/>
+<area shape="rect" id="node6" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="262,56,443,82"/>
+<area shape="rect" id="node7" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,157,443,184"/>
+<area shape="rect" id="node8" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="263,258,442,285"/>
+<area shape="rect" id="node9" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="264,309,441,336"/>
 <area shape="rect" id="node10" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="7,334,198,361"/>
-<area shape="rect" id="node11" href="$slave_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,410,441,437"/>
+<area shape="rect" id="node11" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,410,441,437"/>
 <area shape="rect" id="node12" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="7,436,198,462"/>
 <area shape="rect" id="node13" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="257,512,449,538"/>
 <area shape="rect" id="node14" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="248,562,457,589"/>

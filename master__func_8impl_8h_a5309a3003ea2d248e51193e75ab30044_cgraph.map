@@ -2,6 +2,6 @@
 <area shape="rect" id="node1" title="Write single coil/holding register." alt="" coords="5,56,179,83"/>
 <area shape="rect" id="node2" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="227,31,429,57"/>
 <area shape="rect" id="node5" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="279,81,377,108"/>
-<area shape="rect" id="node3" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="488,5,665,32"/>
-<area shape="rect" id="node4" href="$master_8h.html#a6ecfd0864bb7cd392a04be7d47bcadfa" title="Retreieves the custom context pointer." alt="" coords="477,56,676,83"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="488,5,665,32"/>
+<area shape="rect" id="node4" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="477,56,676,83"/>
 </map>

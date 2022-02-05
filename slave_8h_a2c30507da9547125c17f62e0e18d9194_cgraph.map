@@ -1,4 +1,4 @@
 <map id="modbusSlaveInit" name="modbusSlaveInit">
 <area shape="rect" id="node1" title="Initializes slave device." alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node2" href="$base_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="172,5,292,32"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="172,5,292,32"/>
 </map>

@@ -2,6 +2,6 @@
 <area shape="rect" id="node1" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="5,31,156,57"/>
 <area shape="rect" id="node2" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="204,31,357,57"/>
 <area shape="rect" id="node3" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="405,31,612,57"/>
-<area shape="rect" id="node4" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="667,5,844,32"/>
-<area shape="rect" id="node5" href="$slave_8h.html#abbbf205b4c4a0b74b5ae29b865ca3262" title="Retreieves the custom context pointer." alt="" coords="660,56,851,83"/>
+<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="667,5,844,32"/>
+<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="660,56,851,83"/>
 </map>

@@ -1,15 +1,15 @@
 <map id="modbusRBE" name="modbusRBE">
 <area shape="rect" id="node1" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="759,183,853,209"/>
-<area shape="rect" id="node2" href="$slave__func_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="499,5,706,32"/>
-<area shape="rect" id="node3" href="$slave__func_8h.html#a236881fe30a95d4cc9b031a9e24ae2a8" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="513,56,692,83"/>
-<area shape="rect" id="node4" href="$slave__func_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="513,107,692,133"/>
-<area shape="rect" id="node5" href="$slave__func_8h.html#a814f041d9acfa578998b8ce8fe53815c" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="521,157,685,184"/>
-<area shape="rect" id="node6" href="$master__func_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="495,208,711,235"/>
-<area shape="rect" id="node7" href="$master__func_8h.html#a1a105f7339569601abe367a3254d38dc" title="Parses response to requests 05 and 06." alt="" coords="509,259,697,285"/>
-<area shape="rect" id="node8" href="$master__func_8h.html#a0c53ade25c249f6aeed8c877b98f8016" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="509,309,697,336"/>
+<area shape="rect" id="node2" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="499,5,706,32"/>
+<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#a236881fe30a95d4cc9b031a9e24ae2a8" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="513,56,692,83"/>
+<area shape="rect" id="node4" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="513,107,692,133"/>
+<area shape="rect" id="node5" href="$slave__func_8impl_8h.html#a814f041d9acfa578998b8ce8fe53815c" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="521,157,685,184"/>
+<area shape="rect" id="node6" href="$master__func_8impl_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="495,208,711,235"/>
+<area shape="rect" id="node7" href="$master__func_8impl_8h.html#a1a105f7339569601abe367a3254d38dc" title="Parses response to requests 05 and 06." alt="" coords="509,259,697,285"/>
+<area shape="rect" id="node8" href="$master__func_8impl_8h.html#a0c53ade25c249f6aeed8c877b98f8016" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="509,309,697,336"/>
 <area shape="rect" id="node9" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." alt="" coords="533,360,672,387"/>
-<area shape="rect" id="node10" href="$slave_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,335,441,361"/>
-<area shape="rect" id="node12" href="$master_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." alt="" coords="260,385,447,412"/>
+<area shape="rect" id="node10" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,335,441,361"/>
+<area shape="rect" id="node12" href="$master_8impl_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." alt="" coords="260,385,447,412"/>
 <area shape="rect" id="node11" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="13,335,204,361"/>
 <area shape="rect" id="node13" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="5,385,212,412"/>
 </map>

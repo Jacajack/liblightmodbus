@@ -1,0 +1,6 @@
+<map id="modbusErrorStr" name="modbusErrorStr">
+<area shape="rect" id="node1" title="Returns a string containing the name of the ModbusError value." alt="" coords="208,64,320,91"/>
+<area shape="rect" id="node2" href="$classllm_1_1RequestError.html#a7b7541907d4fea3a7e2dcb438abf9090" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node3" href="$classllm_1_1ResponseError.html#aeb25fb1e58b1e063e2134377ec7cfe97" title=" " alt="" coords="17,57,148,98"/>
+<area shape="rect" id="node4" href="$classllm_1_1GeneralError.html#acab0f7922118a949b9f7e91fd5d8bac6" title=" " alt="" coords="7,123,158,149"/>
+</map>

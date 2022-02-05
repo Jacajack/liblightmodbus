@@ -4,8 +4,8 @@
 <area shape="rect" id="node6" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="261,95,357,121"/>
 <area shape="rect" id="node9" href="$base_8h.html#a39dcd3aad118a779b7e1775fea3e5d77" title="Sets up the MBAP header in a Modbus TCP frame." alt="" coords="247,157,371,184"/>
 <area shape="rect" id="node3" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="433,31,640,57"/>
-<area shape="rect" id="node4" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="695,5,872,32"/>
-<area shape="rect" id="node5" href="$slave_8h.html#abbbf205b4c4a0b74b5ae29b865ca3262" title="Retreieves the custom context pointer." alt="" coords="688,56,879,83"/>
+<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="695,5,872,32"/>
+<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="688,56,879,83"/>
 <area shape="rect" id="node7" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="463,81,610,108"/>
 <area shape="rect" id="node8" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="458,132,615,159"/>
 <area shape="rect" id="node10" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="488,183,585,209"/>

@@ -1,9 +1,9 @@
 <map id="modbusBuildRequest04" name="modbusBuildRequest04">
 <area shape="rect" id="node1" title="Read multiple input registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,56,164,83"/>
-<area shape="rect" id="node2" href="$master__func_8h.html#ad3a6d4576d762da3eb0bd73aa5bb24fe" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,56,413,83"/>
+<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ad3a6d4576d762da3eb0bd73aa5bb24fe" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,56,413,83"/>
 <area shape="rect" id="node3" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="479,5,646,32"/>
 <area shape="rect" id="node4" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="461,56,664,83"/>
 <area shape="rect" id="node7" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="514,107,611,133"/>
-<area shape="rect" id="node5" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="723,31,900,57"/>
-<area shape="rect" id="node6" href="$master_8h.html#a6ecfd0864bb7cd392a04be7d47bcadfa" title="Retreieves the custom context pointer." alt="" coords="712,81,911,108"/>
+<area shape="rect" id="node5" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="723,31,900,57"/>
+<area shape="rect" id="node6" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="712,81,911,108"/>
 </map>

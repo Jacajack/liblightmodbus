@@ -10,7 +10,7 @@
 <area shape="rect" id="node7" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="467,107,565,133"/>
 <area shape="rect" id="node9" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="439,157,593,184"/>
 <area shape="rect" id="node10" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="643,157,849,184"/>
-<area shape="rect" id="node11" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="904,132,1081,159"/>
-<area shape="rect" id="node12" href="$slave_8h.html#abbbf205b4c4a0b74b5ae29b865ca3262" title="Retreieves the custom context pointer." alt="" coords="897,183,1088,209"/>
+<area shape="rect" id="node11" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="904,132,1081,159"/>
+<area shape="rect" id="node12" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="897,183,1088,209"/>
 <area shape="rect" id="node14" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="469,208,563,235"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="modbusMasterDestroy" name="modbusMasterDestroy">
 <area shape="rect" id="node1" title="Deinitializes a ModbusMaster struct." alt="" coords="5,31,157,57"/>
-<area shape="rect" id="node2" href="$base_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="231,5,378,32"/>
-<area shape="rect" id="node5" href="$master_8h.html#a6ecfd0864bb7cd392a04be7d47bcadfa" title="Retreieves the custom context pointer." alt="" coords="205,56,404,83"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="231,5,378,32"/>
+<area shape="rect" id="node5" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="205,56,404,83"/>
 <area shape="rect" id="node3" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="452,5,580,32"/>
 <area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="628,5,805,32"/>
 </map>

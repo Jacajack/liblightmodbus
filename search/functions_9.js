@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['what_504',['what',['../classllm_1_1RequestError.html#a9bac08d3669734a868fd42f1c7f2bb23',1,'llm::RequestError::what()'],['../classllm_1_1ResponseError.html#a33a2e978acba874ef1778aa172e4cb9c',1,'llm::ResponseError::what()'],['../classllm_1_1GeneralError.html#afc7351f91e04823a3842a6c84a464b17',1,'llm::GeneralError::what()']]]
+  ['what_0',['what',['../classllm_1_1RequestError.html#a7b7541907d4fea3a7e2dcb438abf9090',1,'llm::RequestError::what()'],['../classllm_1_1ResponseError.html#aeb25fb1e58b1e063e2134377ec7cfe97',1,'llm::ResponseError::what()'],['../classllm_1_1GeneralError.html#acab0f7922118a949b9f7e91fd5d8bac6',1,'llm::GeneralError::what()']]]
 ];

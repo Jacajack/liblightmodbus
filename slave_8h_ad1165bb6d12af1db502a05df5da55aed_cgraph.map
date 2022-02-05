@@ -1,5 +1,5 @@
 <map id="modbusSlaveAllocateResponse" name="modbusSlaveAllocateResponse">
 <area shape="rect" id="node1" title="Allocates memory for slave&#39;s response frame." alt="" coords="5,31,212,57"/>
-<area shape="rect" id="node2" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="267,5,444,32"/>
-<area shape="rect" id="node3" href="$slave_8h.html#abbbf205b4c4a0b74b5ae29b865ca3262" title="Retreieves the custom context pointer." alt="" coords="260,56,451,83"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="267,5,444,32"/>
+<area shape="rect" id="node3" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="260,56,451,83"/>
 </map>

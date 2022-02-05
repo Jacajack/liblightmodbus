@@ -1,7 +1,7 @@
 <map id="llm::Master::freeRequest" name="llm::Master::freeRequest">
 <area shape="rect" id="node1" title=" " alt="" coords="5,31,167,57"/>
 <area shape="rect" id="node2" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="215,31,397,57"/>
-<area shape="rect" id="node3" href="$base_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="481,5,609,32"/>
-<area shape="rect" id="node5" href="$master_8h.html#a6ecfd0864bb7cd392a04be7d47bcadfa" title="Retreieves the custom context pointer." alt="" coords="445,56,644,83"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="481,5,609,32"/>
+<area shape="rect" id="node5" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="445,56,644,83"/>
 <area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="692,5,869,32"/>
 </map>

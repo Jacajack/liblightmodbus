@@ -1,8 +1,8 @@
 <map id="modbusParseRequest" name="modbusParseRequest">
 <area shape="rect" id="node1" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="472,56,623,83"/>
-<area shape="rect" id="node2" href="$slave_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="245,5,424,32"/>
-<area shape="rect" id="node4" href="$slave_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="246,56,423,83"/>
-<area shape="rect" id="node6" href="$slave_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="247,107,423,133"/>
+<area shape="rect" id="node2" href="$slave_8impl_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="245,5,424,32"/>
+<area shape="rect" id="node4" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="246,56,423,83"/>
+<area shape="rect" id="node6" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="247,107,423,133"/>
 <area shape="rect" id="node3" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,5,197,32"/>
 <area shape="rect" id="node5" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="6,56,197,83"/>
 <area shape="rect" id="node7" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="6,107,197,133"/>

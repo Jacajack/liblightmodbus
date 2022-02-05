@@ -1,6 +1,6 @@
 <map id="modbusSlaveFreeResponse" name="modbusSlaveFreeResponse">
 <area shape="rect" id="node1" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="469,31,655,57"/>
 <area shape="rect" id="node2" href="$classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a" title=" " alt="" coords="251,5,415,32"/>
-<area shape="rect" id="node3" href="$slave_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,56,421,83"/>
+<area shape="rect" id="node3" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,56,421,83"/>
 <area shape="rect" id="node4" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="5,56,196,83"/>
 </map>

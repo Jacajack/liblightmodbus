@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['slave_20device_640',['Slave device',['../slave.html',1,'']]]
+  ['slave_20device_0',['Slave device',['../slave.html',1,'']]]
 ];

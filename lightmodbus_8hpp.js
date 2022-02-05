@@ -1,10 +1,10 @@
 var lightmodbus_8hpp =
 [
-    [ "RequestError", "classllm_1_1RequestError.html", "classllm_1_1RequestError" ],
-    [ "ResponseError", "classllm_1_1ResponseError.html", "classllm_1_1ResponseError" ],
-    [ "GeneralError", "classllm_1_1GeneralError.html", "classllm_1_1GeneralError" ],
-    [ "Slave", "classllm_1_1Slave.html", "classllm_1_1Slave" ],
-    [ "Master", "classllm_1_1Master.html", "classllm_1_1Master" ],
+    [ "llm::RequestError", "classllm_1_1RequestError.html", "classllm_1_1RequestError" ],
+    [ "llm::ResponseError", "classllm_1_1ResponseError.html", "classllm_1_1ResponseError" ],
+    [ "llm::GeneralError", "classllm_1_1GeneralError.html", "classllm_1_1GeneralError" ],
+    [ "llm::Slave", "classllm_1_1Slave.html", "classllm_1_1Slave" ],
+    [ "llm::Master", "classllm_1_1Master.html", "classllm_1_1Master" ],
     [ "LIGHTMODBUS_DEFINE_MEMBER_BUILD_PDU_BODY", "lightmodbus_8hpp.html#a3575312322ab71e1647751693cbaadc7", null ],
     [ "LIGHTMODBUS_DEFINE_MEMBER_BUILD_PDU_HEADER", "lightmodbus_8hpp.html#a04489add6719adea3428fe9d72f5d0e6", null ],
     [ "LIGHTMODBUS_DEFINE_MEMBER_BUILD_RTU_BODY", "lightmodbus_8hpp.html#a58463e41862c713e067b7b3734e5f1b8", null ],

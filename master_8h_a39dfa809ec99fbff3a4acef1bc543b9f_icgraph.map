@@ -1,0 +1,20 @@
+<map id="modbusMasterGetUserPointer" name="modbusMasterGetUserPointer">
+<area shape="rect" id="node1" title="Retreieves the custom context pointer." alt="" coords="712,336,911,363"/>
+<area shape="rect" id="node2" href="$classllm_1_1Master.html#abd27128b7899148b8aa8531587e51ddc" title=" " alt="" coords="473,259,652,285"/>
+<area shape="rect" id="node3" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="461,309,664,336"/>
+<area shape="rect" id="node15" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="487,373,639,400"/>
+<area shape="rect" id="node17" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="471,436,654,463"/>
+<area shape="rect" id="node4" href="$master__func_8impl_8h.html#ad3a6d4576d762da3eb0bd73aa5bb24fe" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,107,413,133"/>
+<area shape="rect" id="node9" href="$master__func_8impl_8h.html#a5309a3003ea2d248e51193e75ab30044" title="Write single coil/holding register." alt="" coords="226,208,399,235"/>
+<area shape="rect" id="node12" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." alt="" coords="233,259,392,285"/>
+<area shape="rect" id="node13" href="$master__func_8impl_8h.html#aca022c438a427d8f4b03db4427c2b344" title="Write multiple holding registers." alt="" coords="233,309,392,336"/>
+<area shape="rect" id="node14" href="$master__func_8impl_8h.html#a6f2c5d59dee73c80ad54e53cca38aeec" title="Mask write register request." alt="" coords="233,360,392,387"/>
+<area shape="rect" id="node5" href="$master__func_8h.html#aadb2b7e2d3ee4fbde22cdf076713d75e" title="Read multiple coils &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node6" href="$master__func_8h.html#a2a6452a8200d77483254bef08ee2cf8c" title="Read multiple discrete inputs &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node7" href="$master__func_8h.html#a1c7ed51c58b1ef42ee176833c7fd0515" title="Read multiple holding registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,107,164,133"/>
+<area shape="rect" id="node8" href="$master__func_8h.html#a22bf4541196b3e88c0a86861d334e3b1" title="Read multiple input registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,157,164,184"/>
+<area shape="rect" id="node10" href="$master__func_8h.html#a7151355c8c34af355fd779f88a64e125" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,208,164,235"/>
+<area shape="rect" id="node11" href="$master__func_8h.html#a56779853bdfd2bb75601be746c20eb09" title="Write single holding register &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,259,164,285"/>
+<area shape="rect" id="node16" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="243,411,382,437"/>
+<area shape="rect" id="node18" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="232,461,393,488"/>
+</map>

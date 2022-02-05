@@ -2,9 +2,9 @@ var debug_8impl_8h =
 [
     [ "ECASE", "debug_8impl_8h.html#a976e9097a2c3473134baa40e170fab2b", null ],
     [ "ESTR", "debug_8impl_8h.html#a5042104432b84aa9aa0db601e767df52", null ],
-    [ "modbusDataTypeStr", "debug_8impl_8h.html#ac176d9d1249e4585c0f3cbca47a14646", null ],
-    [ "modbusErrorSourceStr", "debug_8impl_8h.html#a56307a33dc0e764e8d7bfe7407f8c2f5", null ],
-    [ "modbusErrorStr", "debug_8impl_8h.html#a36b4123cba4b6399f3b743f888a50d1a", null ],
-    [ "modbusExceptionCodeStr", "debug_8impl_8h.html#adfffce55a1aa44629a0334ca7b93e767", null ],
-    [ "modbusRegisterQueryStr", "debug_8impl_8h.html#a404e892159e2d6c676e9b86114bd46bb", null ]
+    [ "modbusDataTypeStr", "debug_8impl_8h.html#ac91629d4444a397e54ddb36094e94cf6", null ],
+    [ "modbusErrorSourceStr", "debug_8impl_8h.html#aa33072d7942e7fc857a4811973e05f22", null ],
+    [ "modbusErrorStr", "debug_8impl_8h.html#a97c87e2c41654b976c7812fa2aee1a50", null ],
+    [ "modbusExceptionCodeStr", "debug_8impl_8h.html#af3781bf8d2f5b1c31149d76cdb353e41", null ],
+    [ "modbusRegisterQueryStr", "debug_8impl_8h.html#a1e98aba8e03adf3cbd51bd3e9ebaaf3f", null ]
 ];

@@ -1,20 +1,19 @@
 <map id="modbusParseRequestRTU" name="modbusParseRequestRTU">
-<area shape="rect" id="node1" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,132,183,159"/>
-<area shape="rect" id="node2" href="$base_8h.html#ad274c6156d4373b79930b577e373692a" title="Prepares buffer to store a Modbus RTU message." alt="" coords="243,5,404,32"/>
-<area shape="rect" id="node3" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="275,56,371,83"/>
-<area shape="rect" id="node6" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="261,157,386,184"/>
-<area shape="rect" id="node9" href="$slave_8impl_8h.html#aff0a9164a0e37aa619232ae86e3ff97a" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="248,107,399,133"/>
-<area shape="rect" id="node14" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="231,309,416,336"/>
-<area shape="rect" id="node17" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="253,208,393,235"/>
-<area shape="rect" id="node4" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="469,5,616,32"/>
-<area shape="rect" id="node5" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="464,56,621,83"/>
-<area shape="rect" id="node7" href="$base_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="495,208,590,235"/>
-<area shape="rect" id="node8" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="495,157,591,184"/>
-<area shape="rect" id="node10" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="466,107,619,133"/>
-<area shape="rect" id="node11" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="669,145,876,172"/>
-<area shape="rect" id="node12" href="$base_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="931,145,1108,172"/>
-<area shape="rect" id="node13" href="$slave_8h.html#abbbf205b4c4a0b74b5ae29b865ca3262" title="Retreieves the custom context pointer." alt="" coords="924,233,1115,260"/>
-<area shape="rect" id="node15" href="$base_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="479,360,607,387"/>
-<area shape="rect" id="node16" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="684,360,861,387"/>
-<area shape="rect" id="node18" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="496,259,589,285"/>
+<area shape="rect" id="node1" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,157,183,184"/>
+<area shape="rect" id="node2" href="$base_8h.html#ad274c6156d4373b79930b577e373692a" title="Prepares buffer to store a Modbus RTU message." alt="" coords="231,19,392,45"/>
+<area shape="rect" id="node3" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="263,69,359,96"/>
+<area shape="rect" id="node6" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="249,183,374,209"/>
+<area shape="rect" id="node9" href="$slave_8impl_8h.html#aff0a9164a0e37aa619232ae86e3ff97a" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="236,309,387,336"/>
+<area shape="rect" id="node14" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="440,259,625,285"/>
+<area shape="rect" id="node16" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="241,132,381,159"/>
+<area shape="rect" id="node4" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="459,56,606,83"/>
+<area shape="rect" id="node5" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="454,5,611,32"/>
+<area shape="rect" id="node7" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="485,157,580,184"/>
+<area shape="rect" id="node8" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="485,208,581,235"/>
+<area shape="rect" id="node10" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="456,309,609,336"/>
+<area shape="rect" id="node11" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="673,309,880,336"/>
+<area shape="rect" id="node12" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="935,284,1112,311"/>
+<area shape="rect" id="node13" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="928,221,1119,248"/>
+<area shape="rect" id="node15" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="713,259,841,285"/>
+<area shape="rect" id="node17" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="486,107,579,133"/>
 </map>

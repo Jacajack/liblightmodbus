@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['master_20device_638',['Master device',['../master.html',1,'']]]
+  ['master_20device_0',['Master device',['../master.html',1,'']]]
 ];
