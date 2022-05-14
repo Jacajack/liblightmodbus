@@ -1,6 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,107,83"/>
-<area shape="rect" id="node2" href="$classllm_1_1GeneralError.html" title="General error exception class." alt="" coords="161,5,279,32"/>
-<area shape="rect" id="node3" href="$classllm_1_1RequestError.html" title="Request error exception class." alt="" coords="160,56,280,83"/>
-<area shape="rect" id="node4" href="$classllm_1_1ResponseError.html" title="Response error exception class." alt="" coords="155,107,285,133"/>
+<area shape="rect" id="node1" href="$structModbusSlaveFunctionHandler.html" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,5,201,32"/>
 </map>
