@@ -1,6 +1,6 @@
 <map id="include/lightmodbus/base.impl.h" name="include/lightmodbus/base.impl.h">
-<area shape="rect" id="node1" title="Common types and functions (implementation)" alt="" coords="11,5,149,47"/>
-<area shape="rect" id="node2" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="7,95,67,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="91,95,154,121"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,169,69,196"/>
+<area shape="rect" id="node1" title="Common types and functions (implementation)" coords="11,5,149,45"/>
+<area shape="rect" id="node2" href="$base_8h.html" title="Common types and functions (header)" coords="7,93,67,119"/>
+<area shape="rect" id="node4" title=" " coords="91,93,154,119"/>
+<area shape="rect" id="node3" title=" " coords="5,167,69,192"/>
 </map>

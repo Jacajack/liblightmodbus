@@ -1,4 +1,4 @@
 <map id="modbusParseResponseTCP" name="modbusParseResponseTCP">
-<area shape="rect" id="node1" title="Parses a Modbus TCP slave response." alt="" coords="260,5,447,32"/>
-<area shape="rect" id="node2" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node1" title="Parses a Modbus TCP slave response." coords="260,5,447,31"/>
+<area shape="rect" id="node2" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " coords="5,5,212,31"/>
 </map>

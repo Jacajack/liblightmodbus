@@ -1,8 +1,8 @@
 <map id="modbusBitsToBytes" name="modbusBitsToBytes">
-<area shape="rect" id="node1" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="269,107,408,133"/>
-<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." alt="" coords="34,5,193,32"/>
-<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="10,56,217,83"/>
-<area shape="rect" id="node4" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="24,107,203,133"/>
-<area shape="rect" id="node5" href="$master__func_8impl_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="5,157,221,184"/>
-<area shape="rect" id="node6" href="$master__func_8impl_8h.html#a0c53ade25c249f6aeed8c877b98f8016" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="19,208,207,235"/>
+<area shape="rect" id="node1" title="Returns number of bytes necessary to hold given number of bits." coords="269,104,408,129"/>
+<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." coords="34,5,193,31"/>
+<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." coords="10,55,217,80"/>
+<area shape="rect" id="node4" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." coords="24,104,203,129"/>
+<area shape="rect" id="node5" href="$master__func_8impl_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." coords="5,153,221,179"/>
+<area shape="rect" id="node6" href="$master__func_8impl_8h.html#a0c53ade25c249f6aeed8c877b98f8016" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" coords="19,203,207,228"/>
 </map>

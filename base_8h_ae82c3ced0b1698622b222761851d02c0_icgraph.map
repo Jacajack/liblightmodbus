@@ -1,6 +1,6 @@
 <map id="modbusBufferModeTCP" name="modbusBufferModeTCP">
-<area shape="rect" id="node1" title="Prepares buffer to store a Modbus TCP message." alt="" coords="468,31,628,57"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#afd1467296480779237ab090a8579efb5" title="Begins a TCP request." alt="" coords="245,5,419,32"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="244,56,420,83"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="5,56,196,83"/>
+<area shape="rect" id="node1" title="Prepares buffer to store a Modbus TCP message." coords="468,31,628,56"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#afd1467296480779237ab090a8579efb5" title="Begins a TCP request." coords="245,5,419,31"/>
+<area shape="rect" id="node3" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." coords="244,55,420,80"/>
+<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " coords="5,55,196,80"/>
 </map>

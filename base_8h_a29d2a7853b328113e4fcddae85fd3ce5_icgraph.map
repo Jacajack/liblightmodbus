@@ -1,24 +1,24 @@
 <map id="modbusGetErrorCode" name="modbusGetErrorCode">
-<area shape="rect" id="node1" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="715,208,861,235"/>
-<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="499,233,660,260"/>
-<area shape="rect" id="node15" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="497,132,661,159"/>
-<area shape="rect" id="node16" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="492,183,667,209"/>
-<area shape="rect" id="node17" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="531,360,627,387"/>
-<area shape="rect" id="node3" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="290,157,417,184"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="13,5,207,32"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="13,360,207,387"/>
-<area shape="rect" id="node6" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="13,461,207,488"/>
-<area shape="rect" id="node7" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="45,157,175,184"/>
-<area shape="rect" id="node8" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="14,208,206,235"/>
-<area shape="rect" id="node9" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="15,563,205,589"/>
-<area shape="rect" id="node10" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="15,664,205,691"/>
-<area shape="rect" id="node11" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="5,259,215,285"/>
-<area shape="rect" id="node12" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,309,214,336"/>
-<area shape="rect" id="node13" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="7,56,213,83"/>
-<area shape="rect" id="node14" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,107,169,133"/>
-<area shape="rect" id="node18" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="263,5,444,32"/>
-<area shape="rect" id="node19" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,411,443,437"/>
-<area shape="rect" id="node20" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="264,512,443,539"/>
-<area shape="rect" id="node21" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="265,613,442,640"/>
-<area shape="rect" id="node22" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,715,441,741"/>
+<area shape="rect" id="node1" title="Returns ModbusError contained in ModbusErrorInfo." coords="715,208,861,233"/>
+<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." coords="499,232,660,257"/>
+<area shape="rect" id="node15" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." coords="497,133,661,159"/>
+<area shape="rect" id="node16" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." coords="492,183,667,208"/>
+<area shape="rect" id="node17" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." coords="531,360,627,385"/>
+<area shape="rect" id="node3" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." coords="290,157,417,183"/>
+<area shape="rect" id="node4" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " coords="13,12,207,37"/>
+<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " coords="13,360,207,385"/>
+<area shape="rect" id="node6" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " coords="13,461,207,487"/>
+<area shape="rect" id="node7" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " coords="45,160,175,185"/>
+<area shape="rect" id="node8" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " coords="14,209,206,235"/>
+<area shape="rect" id="node9" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " coords="15,563,205,588"/>
+<area shape="rect" id="node10" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " coords="15,664,205,689"/>
+<area shape="rect" id="node11" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " coords="5,259,215,284"/>
+<area shape="rect" id="node12" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " coords="6,309,214,335"/>
+<area shape="rect" id="node13" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " coords="7,61,213,87"/>
+<area shape="rect" id="node14" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " coords="51,111,169,136"/>
+<area shape="rect" id="node18" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." coords="263,5,444,31"/>
+<area shape="rect" id="node19" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." coords="263,411,443,436"/>
+<area shape="rect" id="node20" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." coords="264,512,443,537"/>
+<area shape="rect" id="node21" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." coords="265,613,442,639"/>
+<area shape="rect" id="node22" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." coords="265,715,441,740"/>
 </map>

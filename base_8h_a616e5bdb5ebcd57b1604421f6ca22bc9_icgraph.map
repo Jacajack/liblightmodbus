@@ -1,7 +1,7 @@
 <map id="modbusUnpackTCP" name="modbusUnpackTCP">
-<area shape="rect" id="node1" title="Unpacks data from a Modbus TCP frame." alt="" coords="495,31,633,57"/>
-<area shape="rect" id="node2" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,5,441,32"/>
-<area shape="rect" id="node4" href="$master_8impl_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." alt="" coords="260,56,447,83"/>
-<area shape="rect" id="node3" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="13,5,204,32"/>
-<area shape="rect" id="node5" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node1" title="Unpacks data from a Modbus TCP frame." coords="495,31,633,56"/>
+<area shape="rect" id="node2" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." coords="265,5,441,31"/>
+<area shape="rect" id="node4" href="$master_8impl_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." coords="260,55,447,80"/>
+<area shape="rect" id="node3" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " coords="13,5,204,31"/>
+<area shape="rect" id="node5" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " coords="5,55,212,80"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="include/lightmodbus/debug.h" name="include/lightmodbus/debug.h">
-<area shape="rect" id="node1" title="Debug utilities (header)" alt="" coords="59,5,196,47"/>
-<area shape="rect" id="node2" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" alt="" coords="5,95,143,136"/>
-<area shape="rect" id="node3" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="59,184,196,225"/>
-<area shape="rect" id="node4" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="59,273,196,315"/>
+<area shape="rect" id="node1" title="Debug utilities (header)" coords="59,5,196,45"/>
+<area shape="rect" id="node2" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" coords="5,93,143,133"/>
+<area shape="rect" id="node3" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="59,181,196,221"/>
+<area shape="rect" id="node4" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="59,269,196,309"/>
 </map>

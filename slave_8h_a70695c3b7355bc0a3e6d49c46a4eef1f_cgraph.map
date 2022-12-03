@@ -1,7 +1,7 @@
 <map id="modbusSlaveDestroy" name="modbusSlaveDestroy">
-<area shape="rect" id="node1" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="5,31,151,57"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="221,5,367,32"/>
-<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="199,56,389,83"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="437,5,565,32"/>
-<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="613,5,791,32"/>
+<area shape="rect" id="node1" title="Frees memory allocated in the ModbusSlave struct." coords="5,31,151,56"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" coords="221,5,367,31"/>
+<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." coords="199,55,389,80"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." coords="437,5,565,31"/>
+<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="613,5,791,31"/>
 </map>

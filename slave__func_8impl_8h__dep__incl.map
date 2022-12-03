@@ -1,5 +1,5 @@
 <map id="include/lightmodbus/slave_func.impl.h" name="include/lightmodbus/slave_func.impl.h">
-<area shape="rect" id="node1" title="Slave&#39;s functions for parsing requests (implementation)" alt="" coords="5,5,143,47"/>
-<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="5,95,143,136"/>
-<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="5,184,143,225"/>
+<area shape="rect" id="node1" title="Slave&#39;s functions for parsing requests (implementation)" coords="5,5,143,45"/>
+<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="5,93,143,133"/>
+<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="5,181,143,221"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="modbusBufferInit" name="modbusBufferInit">
-<area shape="rect" id="node1" title="Initializes a buffer for use." alt="" coords="359,31,479,57"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." alt="" coords="184,5,311,32"/>
-<area shape="rect" id="node4" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="188,56,307,83"/>
-<area shape="rect" id="node3" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="5,5,136,32"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="12,56,129,83"/>
+<area shape="rect" id="node1" title="Initializes a buffer for use." coords="359,31,479,56"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." coords="184,5,311,31"/>
+<area shape="rect" id="node4" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." coords="188,55,307,80"/>
+<area shape="rect" id="node3" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " coords="5,5,136,31"/>
+<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " coords="12,55,129,80"/>
 </map>

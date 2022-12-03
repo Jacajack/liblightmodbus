@@ -1,5 +1,5 @@
 <map id="modbusMaskWrite" name="modbusMaskWrite">
-<area shape="rect" id="node1" title="Writes n&#45;th bit in an array." alt="" coords="260,31,391,57"/>
-<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." alt="" coords="29,5,188,32"/>
-<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node1" title="Writes n&#45;th bit in an array." coords="260,31,391,56"/>
+<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." coords="29,5,188,31"/>
+<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." coords="5,55,212,80"/>
 </map>

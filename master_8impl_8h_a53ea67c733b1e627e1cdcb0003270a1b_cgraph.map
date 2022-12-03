@@ -1,6 +1,6 @@
 <map id="modbusParseResponseTCP" name="modbusParseResponseTCP">
-<area shape="rect" id="node1" title="Parses a Modbus TCP slave response." alt="" coords="5,31,192,57"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." alt="" coords="240,5,428,32"/>
-<area shape="rect" id="node3" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." alt="" coords="265,56,403,83"/>
-<area shape="rect" id="node4" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="476,56,571,83"/>
+<area shape="rect" id="node1" title="Parses a Modbus TCP slave response." coords="5,31,192,56"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." coords="240,5,428,31"/>
+<area shape="rect" id="node3" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." coords="265,55,403,80"/>
+<area shape="rect" id="node4" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." coords="476,55,571,80"/>
 </map>

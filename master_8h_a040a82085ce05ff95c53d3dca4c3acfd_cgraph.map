@@ -1,6 +1,6 @@
 <map id="modbusMasterFreeRequest" name="modbusMasterFreeRequest">
-<area shape="rect" id="node1" title="Frees memory allocated for master&#39;s request frame." alt="" coords="5,31,188,57"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="271,5,399,32"/>
-<area shape="rect" id="node4" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="236,56,435,83"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="483,5,660,32"/>
+<area shape="rect" id="node1" title="Frees memory allocated for master&#39;s request frame." coords="5,31,188,56"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." coords="271,5,399,31"/>
+<area shape="rect" id="node4" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." coords="236,55,435,80"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="483,5,660,31"/>
 </map>

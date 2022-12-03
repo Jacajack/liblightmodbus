@@ -1,4 +1,4 @@
 <map id="modbusBuildExceptionTCP" name="modbusBuildExceptionTCP">
-<area shape="rect" id="node1" title="Builds a Modbus TCP exception." alt="" coords="247,5,425,32"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node1" title="Builds a Modbus TCP exception." coords="247,5,425,31"/>
+<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " coords="5,5,199,31"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="modbusMasterFreeRequest" name="modbusMasterFreeRequest">
-<area shape="rect" id="node1" title="Frees memory allocated for master&#39;s request frame." alt="" coords="215,5,397,32"/>
-<area shape="rect" id="node2" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node1" title="Frees memory allocated for master&#39;s request frame." coords="215,5,397,31"/>
+<area shape="rect" id="node2" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " coords="5,5,167,31"/>
 </map>

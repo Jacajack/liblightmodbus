@@ -1,6 +1,6 @@
 <map id="modbusBufferModePDU" name="modbusBufferModePDU">
-<area shape="rect" id="node1" title="Prepares buffer to only store a Modbus PDU." alt="" coords="472,31,635,57"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#ad71d034901cd8e22b4d74da7f86cdda9" title="Begins a PDU&#45;only request." alt="" coords="246,5,423,32"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="245,56,424,83"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,56,197,83"/>
+<area shape="rect" id="node1" title="Prepares buffer to only store a Modbus PDU." coords="472,31,635,56"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#ad71d034901cd8e22b4d74da7f86cdda9" title="Begins a PDU&#45;only request." coords="246,5,423,31"/>
+<area shape="rect" id="node3" href="$slave_8impl_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." coords="245,55,424,80"/>
+<area shape="rect" id="node4" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " coords="5,55,197,80"/>
 </map>

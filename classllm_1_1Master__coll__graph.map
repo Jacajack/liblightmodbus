@@ -1,7 +1,7 @@
 <map id="llm::Master" name="llm::Master">
-<area shape="rect" id="node1" title="Represents a Modbus master device." alt="" coords="152,276,237,303"/>
-<area shape="rect" id="node2" href="$structModbusMaster.html" title="Master device status." alt="" coords="141,185,249,212"/>
-<area shape="rect" id="node3" href="$structModbusMasterFunctionHandler.html" title="Associates Modbus function ID with a pointer to a response parsing function." alt="" coords="5,95,208,121"/>
-<area shape="rect" id="node4" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." alt="" coords="48,5,165,32"/>
-<area shape="rect" id="node5" href="$structModbusBuffer.html" title="Stores a Modbus frame." alt="" coords="233,95,335,121"/>
+<area shape="rect" id="node1" title="Represents a Modbus master device." coords="152,273,237,299"/>
+<area shape="rect" id="node2" href="$structModbusMaster.html" title="Master device status." coords="141,183,249,209"/>
+<area shape="rect" id="node3" href="$structModbusMasterFunctionHandler.html" title="Associates Modbus function ID with a pointer to a response parsing function." coords="5,93,208,119"/>
+<area shape="rect" id="node4" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." coords="48,5,165,31"/>
+<area shape="rect" id="node5" href="$structModbusBuffer.html" title="Stores a Modbus frame." coords="233,93,335,119"/>
 </map>

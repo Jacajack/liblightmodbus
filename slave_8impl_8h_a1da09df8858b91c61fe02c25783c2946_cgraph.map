@@ -1,13 +1,13 @@
 <map id="modbusBuildExceptionRTU" name="modbusBuildExceptionRTU">
-<area shape="rect" id="node1" title="Builds a Modbus RTU exception." alt="" coords="5,107,185,133"/>
-<area shape="rect" id="node2" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="233,44,387,71"/>
-<area shape="rect" id="node6" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="262,107,358,133"/>
-<area shape="rect" id="node9" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="247,183,373,209"/>
-<area shape="rect" id="node3" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="435,31,641,57"/>
-<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="696,5,873,32"/>
-<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="689,56,880,83"/>
-<area shape="rect" id="node7" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="465,81,611,108"/>
-<area shape="rect" id="node8" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="459,132,617,159"/>
-<area shape="rect" id="node10" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="491,183,585,209"/>
-<area shape="rect" id="node11" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="490,233,586,260"/>
+<area shape="rect" id="node1" title="Builds a Modbus RTU exception." coords="5,104,185,129"/>
+<area shape="rect" id="node2" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." coords="233,43,387,68"/>
+<area shape="rect" id="node6" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." coords="262,104,358,129"/>
+<area shape="rect" id="node9" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." coords="247,177,373,203"/>
+<area shape="rect" id="node3" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." coords="435,29,641,55"/>
+<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="696,5,873,31"/>
+<area shape="rect" id="node5" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." coords="689,55,880,80"/>
+<area shape="rect" id="node7" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="465,79,611,104"/>
+<area shape="rect" id="node8" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." coords="459,128,617,153"/>
+<area shape="rect" id="node10" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." coords="491,177,585,203"/>
+<area shape="rect" id="node11" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." coords="490,227,586,252"/>
 </map>

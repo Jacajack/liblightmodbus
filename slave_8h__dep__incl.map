@@ -1,10 +1,10 @@
 <map id="include/lightmodbus/slave.h" name="include/lightmodbus/slave.h">
-<area shape="rect" id="node1" title="Slave&#39;s types and basic functions (header)" alt="" coords="269,5,407,47"/>
-<area shape="rect" id="node2" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="56,95,193,136"/>
-<area shape="rect" id="node4" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="216,273,353,315"/>
-<area shape="rect" id="node6" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" alt="" coords="269,184,407,225"/>
-<area shape="rect" id="node7" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" alt="" coords="376,95,513,136"/>
-<area shape="rect" id="node8" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" alt="" coords="483,184,620,225"/>
-<area shape="rect" id="node3" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" alt="" coords="5,184,143,225"/>
-<area shape="rect" id="node5" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="216,363,353,404"/>
+<area shape="rect" id="node1" title="Slave&#39;s types and basic functions (header)" coords="269,5,407,45"/>
+<area shape="rect" id="node2" href="$debug_8h.html" title="Debug utilities (header)" coords="56,93,193,133"/>
+<area shape="rect" id="node4" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="216,269,353,309"/>
+<area shape="rect" id="node6" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" coords="269,181,407,221"/>
+<area shape="rect" id="node7" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" coords="376,93,513,133"/>
+<area shape="rect" id="node8" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" coords="483,181,620,221"/>
+<area shape="rect" id="node3" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" coords="5,181,143,221"/>
+<area shape="rect" id="node5" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="216,357,353,397"/>
 </map>

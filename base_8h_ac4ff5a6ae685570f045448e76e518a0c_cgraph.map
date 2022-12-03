@@ -1,5 +1,5 @@
 <map id="modbusBufferDestroy" name="modbusBufferDestroy">
-<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="5,5,152,32"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="200,5,328,32"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="376,5,553,32"/>
+<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" coords="5,5,152,31"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." coords="200,5,328,31"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="376,5,553,31"/>
 </map>

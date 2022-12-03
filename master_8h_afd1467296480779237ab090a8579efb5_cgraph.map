@@ -1,4 +1,4 @@
 <map id="modbusBeginRequestTCP" name="modbusBeginRequestTCP">
-<area shape="rect" id="node1" title="Begins a TCP request." alt="" coords="5,5,180,32"/>
-<area shape="rect" id="node2" href="$base_8h.html#ae82c3ced0b1698622b222761851d02c0" title="Prepares buffer to store a Modbus TCP message." alt="" coords="228,5,388,32"/>
+<area shape="rect" id="node1" title="Begins a TCP request." coords="5,5,180,31"/>
+<area shape="rect" id="node2" href="$base_8h.html#ae82c3ced0b1698622b222761851d02c0" title="Prepares buffer to store a Modbus TCP message." coords="228,5,388,31"/>
 </map>
