@@ -1,7 +1,7 @@
 <map id="llm::throwErrorInfo" name="llm::throwErrorInfo">
-<area shape="rect" id="node1" title="Throws an exception based on ModbusErrorInfo." coords="5,55,132,80"/>
-<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." coords="187,5,348,31"/>
-<area shape="rect" id="node4" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." coords="185,55,349,80"/>
-<area shape="rect" id="node5" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." coords="180,104,355,129"/>
-<area shape="rect" id="node3" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="403,55,549,80"/>
+<area shape="rect" id="node1" title="Throws an exception based on ModbusErrorInfo." alt="" coords="5,55,132,80"/>
+<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="187,5,348,31"/>
+<area shape="rect" id="node4" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="185,55,349,80"/>
+<area shape="rect" id="node5" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="180,104,355,129"/>
+<area shape="rect" id="node3" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="403,55,549,80"/>
 </map>

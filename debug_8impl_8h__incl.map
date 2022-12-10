@@ -1,8 +1,8 @@
 <map id="include/lightmodbus/debug.impl.h" name="include/lightmodbus/debug.impl.h">
-<area shape="rect" id="node1" title="Debug utilities (implementation)" coords="5,5,143,45"/>
-<area shape="rect" id="node2" href="$debug_8h.html" title="Debug utilities (header)" coords="41,93,107,119"/>
-<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" coords="9,240,69,265"/>
-<area shape="rect" id="node5" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" coords="77,167,140,192"/>
-<area shape="rect" id="node4" title=" " coords="41,313,105,339"/>
-<area shape="rect" id="node6" title=" " coords="145,240,213,265"/>
+<area shape="rect" id="node1" title="Debug utilities (implementation)" alt="" coords="5,5,143,45"/>
+<area shape="rect" id="node2" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="41,93,107,119"/>
+<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="9,240,69,265"/>
+<area shape="rect" id="node5" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="77,167,140,192"/>
+<area shape="rect" id="node4" title=" " alt="" coords="41,313,105,339"/>
+<area shape="rect" id="node6" title=" " alt="" coords="145,240,213,265"/>
 </map>

@@ -1,10 +1,10 @@
 <map id="llm::Master::Master" name="llm::Master::Master">
-<area shape="rect" id="node1" title=" " coords="5,56,136,81"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." coords="184,19,311,44"/>
-<area shape="rect" id="node4" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." coords="184,80,311,105"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." coords="386,5,506,31"/>
-<area shape="rect" id="node5" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." coords="365,55,527,80"/>
-<area shape="rect" id="node7" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." coords="364,104,528,129"/>
-<area shape="rect" id="node8" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." coords="359,153,533,179"/>
-<area shape="rect" id="node6" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="581,104,728,129"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,136,81"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." alt="" coords="184,19,311,44"/>
+<area shape="rect" id="node4" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="184,80,311,105"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="386,5,506,31"/>
+<area shape="rect" id="node5" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="365,55,527,80"/>
+<area shape="rect" id="node7" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="364,104,528,129"/>
+<area shape="rect" id="node8" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="359,153,533,179"/>
+<area shape="rect" id="node6" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="581,104,728,129"/>
 </map>

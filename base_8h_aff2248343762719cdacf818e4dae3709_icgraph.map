@@ -1,6 +1,6 @@
 <map id="modbusMaskRead" name="modbusMaskRead">
-<area shape="rect" id="node1" title="Reads n&#45;th bit from an array." coords="269,55,400,80"/>
-<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." coords="34,5,193,31"/>
-<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." coords="24,55,203,80"/>
-<area shape="rect" id="node4" href="$master__func_8impl_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." coords="5,104,221,129"/>
+<area shape="rect" id="node1" title="Reads n&#45;th bit from an array." alt="" coords="269,55,400,80"/>
+<area shape="rect" id="node2" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." alt="" coords="34,5,193,31"/>
+<area shape="rect" id="node3" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="24,55,203,80"/>
+<area shape="rect" id="node4" href="$master__func_8impl_8h.html#adafbaa72d4df36b3577ce5494b460a2b" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="5,104,221,129"/>
 </map>

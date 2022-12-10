@@ -1,5 +1,5 @@
 <map id="modbusIsOk" name="modbusIsOk">
-<area shape="rect" id="node1" title="Checks if ModbusErrorInfo contains an error." coords="5,31,101,56"/>
-<area shape="rect" id="node2" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="155,5,301,31"/>
-<area shape="rect" id="node3" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." coords="149,55,307,80"/>
+<area shape="rect" id="node1" title="Checks if ModbusErrorInfo contains an error." alt="" coords="5,31,101,56"/>
+<area shape="rect" id="node2" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="155,5,301,31"/>
+<area shape="rect" id="node3" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="149,55,307,80"/>
 </map>

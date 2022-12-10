@@ -1,16 +1,16 @@
 <map id="include/lightmodbus/base.h" name="include/lightmodbus/base.h">
-<area shape="rect" id="node1" title="Common types and functions (header)" coords="292,5,429,45"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html" title="Common types and functions (implementation)" coords="24,93,161,133"/>
-<area shape="rect" id="node3" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="419,357,556,397"/>
-<area shape="rect" id="node5" href="$debug_8h.html" title="Debug utilities (header)" coords="503,181,640,221"/>
-<area shape="rect" id="node7" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" coords="185,93,323,133"/>
-<area shape="rect" id="node9" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" coords="292,181,429,221"/>
-<area shape="rect" id="node11" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" coords="683,93,820,133"/>
-<area shape="rect" id="node13" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" coords="865,181,1003,221"/>
-<area shape="rect" id="node4" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="419,445,556,485"/>
-<area shape="rect" id="node6" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" coords="551,269,688,309"/>
-<area shape="rect" id="node8" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" coords="125,269,263,309"/>
-<area shape="rect" id="node10" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" coords="287,269,424,309"/>
-<area shape="rect" id="node12" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" coords="925,269,1063,309"/>
-<area shape="rect" id="node14" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" coords="764,269,901,309"/>
+<area shape="rect" id="node1" title="Common types and functions (header)" alt="" coords="292,5,429,45"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html" title="Common types and functions (implementation)" alt="" coords="24,93,161,133"/>
+<area shape="rect" id="node3" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="419,357,556,397"/>
+<area shape="rect" id="node5" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="503,181,640,221"/>
+<area shape="rect" id="node7" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" alt="" coords="185,93,323,133"/>
+<area shape="rect" id="node9" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="292,181,429,221"/>
+<area shape="rect" id="node11" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="683,93,820,133"/>
+<area shape="rect" id="node13" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" alt="" coords="865,181,1003,221"/>
+<area shape="rect" id="node4" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="419,445,556,485"/>
+<area shape="rect" id="node6" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" alt="" coords="551,269,688,309"/>
+<area shape="rect" id="node8" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" alt="" coords="125,269,263,309"/>
+<area shape="rect" id="node10" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="287,269,424,309"/>
+<area shape="rect" id="node12" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" alt="" coords="925,269,1063,309"/>
+<area shape="rect" id="node14" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" alt="" coords="764,269,901,309"/>
 </map>

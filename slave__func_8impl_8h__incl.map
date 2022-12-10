@@ -1,8 +1,8 @@
 <map id="include/lightmodbus/slave_func.impl.h" name="include/lightmodbus/slave_func.impl.h">
-<area shape="rect" id="node1" title="Slave&#39;s functions for parsing requests (implementation)" coords="27,5,164,45"/>
-<area shape="rect" id="node2" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" coords="5,93,100,119"/>
-<area shape="rect" id="node5" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" coords="91,167,153,192"/>
-<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" coords="23,240,83,265"/>
-<area shape="rect" id="node4" title=" " coords="54,313,118,339"/>
-<area shape="rect" id="node6" title=" " coords="159,240,227,265"/>
+<area shape="rect" id="node1" title="Slave&#39;s functions for parsing requests (implementation)" alt="" coords="27,5,164,45"/>
+<area shape="rect" id="node2" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" alt="" coords="5,93,100,119"/>
+<area shape="rect" id="node5" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="91,167,153,192"/>
+<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="23,240,83,265"/>
+<area shape="rect" id="node4" title=" " alt="" coords="54,313,118,339"/>
+<area shape="rect" id="node6" title=" " alt="" coords="159,240,227,265"/>
 </map>

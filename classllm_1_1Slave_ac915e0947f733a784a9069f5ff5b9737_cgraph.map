@@ -1,15 +1,15 @@
 <map id="llm::Slave::buildExceptionPDU" name="llm::Slave::buildExceptionPDU">
-<area shape="rect" id="node1" title=" " coords="5,93,200,119"/>
-<area shape="rect" id="node2" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." coords="248,43,429,68"/>
-<area shape="rect" id="node7" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." coords="517,80,613,105"/>
-<area shape="rect" id="node10" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." coords="275,156,402,181"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." coords="488,31,641,56"/>
-<area shape="rect" id="node4" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." coords="700,31,907,56"/>
-<area shape="rect" id="node5" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="961,5,1139,31"/>
-<area shape="rect" id="node6" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." coords="955,55,1145,80"/>
-<area shape="rect" id="node8" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="730,153,877,179"/>
-<area shape="rect" id="node9" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." coords="725,80,882,105"/>
-<area shape="rect" id="node11" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." coords="484,129,645,155"/>
-<area shape="rect" id="node12" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." coords="483,179,647,204"/>
-<area shape="rect" id="node13" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." coords="477,228,652,253"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,200,119"/>
+<area shape="rect" id="node2" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="248,43,429,68"/>
+<area shape="rect" id="node7" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="517,80,613,105"/>
+<area shape="rect" id="node10" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="275,156,402,181"/>
+<area shape="rect" id="node3" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="488,31,641,56"/>
+<area shape="rect" id="node4" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="700,31,907,56"/>
+<area shape="rect" id="node5" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="961,5,1139,31"/>
+<area shape="rect" id="node6" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="955,55,1145,80"/>
+<area shape="rect" id="node8" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="730,153,877,179"/>
+<area shape="rect" id="node9" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="725,80,882,105"/>
+<area shape="rect" id="node11" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="484,129,645,155"/>
+<area shape="rect" id="node12" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="483,179,647,204"/>
+<area shape="rect" id="node13" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="477,228,652,253"/>
 </map>

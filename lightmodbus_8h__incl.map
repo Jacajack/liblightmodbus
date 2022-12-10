@@ -1,18 +1,18 @@
 <map id="include/lightmodbus/lightmodbus.h" name="include/lightmodbus/lightmodbus.h">
-<area shape="rect" id="node1" title="The main library header file (include this one)" coords="445,5,582,45"/>
-<area shape="rect" id="node2" href="$base_8h.html" title="Common types and functions (header)" coords="529,313,589,339"/>
-<area shape="rect" id="node4" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" coords="250,240,313,265"/>
-<area shape="rect" id="node6" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" coords="228,167,322,192"/>
-<area shape="rect" id="node7" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" coords="432,240,504,265"/>
-<area shape="rect" id="node8" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" coords="531,167,635,192"/>
-<area shape="rect" id="node9" href="$debug_8h.html" title="Debug utilities (header)" coords="699,167,766,192"/>
-<area shape="rect" id="node10" href="$base_8impl_8h.html" title="Common types and functions (implementation)" coords="894,93,981,119"/>
-<area shape="rect" id="node12" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" coords="32,93,123,119"/>
-<area shape="rect" id="node13" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" coords="147,93,270,119"/>
-<area shape="rect" id="node14" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" coords="395,93,494,119"/>
-<area shape="rect" id="node15" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" coords="518,93,648,119"/>
-<area shape="rect" id="node16" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" coords="724,93,818,119"/>
-<area shape="rect" id="node3" title=" " coords="436,387,500,412"/>
-<area shape="rect" id="node5" title=" " coords="349,313,417,339"/>
-<area shape="rect" id="node11" title=" " coords="906,167,969,192"/>
+<area shape="rect" id="node1" title="The main library header file (include this one)" alt="" coords="445,5,582,45"/>
+<area shape="rect" id="node2" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="529,313,589,339"/>
+<area shape="rect" id="node4" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="250,240,313,265"/>
+<area shape="rect" id="node6" href="$slave__func_8h.html" title="Slave&#39;s functions for parsing requests (header)" alt="" coords="228,167,322,192"/>
+<area shape="rect" id="node7" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" alt="" coords="432,240,504,265"/>
+<area shape="rect" id="node8" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="531,167,635,192"/>
+<area shape="rect" id="node9" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="699,167,766,192"/>
+<area shape="rect" id="node10" href="$base_8impl_8h.html" title="Common types and functions (implementation)" alt="" coords="894,93,981,119"/>
+<area shape="rect" id="node12" href="$slave_8impl_8h.html" title="Slave&#39;s types and basic functions (implementation)" alt="" coords="32,93,123,119"/>
+<area shape="rect" id="node13" href="$slave__func_8impl_8h.html" title="Slave&#39;s functions for parsing requests (implementation)" alt="" coords="147,93,270,119"/>
+<area shape="rect" id="node14" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" alt="" coords="395,93,494,119"/>
+<area shape="rect" id="node15" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="518,93,648,119"/>
+<area shape="rect" id="node16" href="$debug_8impl_8h.html" title="Debug utilities (implementation)" alt="" coords="724,93,818,119"/>
+<area shape="rect" id="node3" title=" " alt="" coords="436,387,500,412"/>
+<area shape="rect" id="node5" title=" " alt="" coords="349,313,417,339"/>
+<area shape="rect" id="node11" title=" " alt="" coords="906,167,969,192"/>
 </map>

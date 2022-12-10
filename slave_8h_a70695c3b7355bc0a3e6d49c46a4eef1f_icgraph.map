@@ -1,4 +1,4 @@
 <map id="modbusSlaveDestroy" name="modbusSlaveDestroy">
-<area shape="rect" id="node1" title="Frees memory allocated in the ModbusSlave struct." coords="177,5,323,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " coords="5,5,129,31"/>
+<area shape="rect" id="node1" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="177,5,323,31"/>
+<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="5,5,129,31"/>
 </map>

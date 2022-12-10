@@ -1,4 +1,4 @@
 <map id="modbusParseRequestRTU" name="modbusParseRequestRTU">
-<area shape="rect" id="node1" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." coords="244,5,421,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " coords="5,5,196,31"/>
+<area shape="rect" id="node1" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,5,421,31"/>
+<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="5,5,196,31"/>
 </map>

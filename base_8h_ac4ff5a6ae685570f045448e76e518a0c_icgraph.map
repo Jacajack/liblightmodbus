@@ -1,7 +1,7 @@
 <map id="modbusBufferDestroy" name="modbusBufferDestroy">
-<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" coords="392,31,539,56"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." coords="192,5,344,31"/>
-<area shape="rect" id="node4" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." coords="195,55,341,80"/>
-<area shape="rect" id="node3" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " coords="5,5,144,31"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " coords="13,55,137,80"/>
+<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="392,31,539,56"/>
+<area shape="rect" id="node2" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="192,5,344,31"/>
+<area shape="rect" id="node4" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="195,55,341,80"/>
+<area shape="rect" id="node3" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,144,31"/>
+<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="13,55,137,80"/>
 </map>

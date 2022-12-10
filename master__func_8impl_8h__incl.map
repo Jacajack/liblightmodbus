@@ -1,8 +1,8 @@
 <map id="include/lightmodbus/master_func.impl.h" name="include/lightmodbus/master_func.impl.h">
-<area shape="rect" id="node1" title="Master&#39;s functions for building requests and parsing responses (implementation)" coords="33,5,170,45"/>
-<area shape="rect" id="node2" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" coords="5,93,109,119"/>
-<area shape="rect" id="node5" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" coords="95,167,167,192"/>
-<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" coords="30,240,90,265"/>
-<area shape="rect" id="node4" title=" " coords="61,313,125,339"/>
-<area shape="rect" id="node6" title=" " coords="166,240,234,265"/>
+<area shape="rect" id="node1" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="33,5,170,45"/>
+<area shape="rect" id="node2" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="5,93,109,119"/>
+<area shape="rect" id="node5" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" alt="" coords="95,167,167,192"/>
+<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="30,240,90,265"/>
+<area shape="rect" id="node4" title=" " alt="" coords="61,313,125,339"/>
+<area shape="rect" id="node6" title=" " alt="" coords="166,240,234,265"/>
 </map>

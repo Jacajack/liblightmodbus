@@ -1,5 +1,5 @@
 <map id="include/lightmodbus/master.impl.h" name="include/lightmodbus/master.impl.h">
-<area shape="rect" id="node1" title="Master&#39;s types and basic functions (implementation)" coords="5,5,143,45"/>
-<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="5,93,143,133"/>
-<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="5,181,143,221"/>
+<area shape="rect" id="node1" title="Master&#39;s types and basic functions (implementation)" alt="" coords="5,5,143,45"/>
+<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="5,93,143,133"/>
+<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="5,181,143,221"/>
 </map>

@@ -1,6 +1,6 @@
 <map id="modbusSlaveFreeResponse" name="modbusSlaveFreeResponse">
-<area shape="rect" id="node1" title="Frees memory allocated for slave&#39;s response frame." coords="5,31,191,56"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." coords="270,5,398,31"/>
-<area shape="rect" id="node4" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." coords="239,55,429,80"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." coords="477,5,655,31"/>
+<area shape="rect" id="node1" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="5,31,191,56"/>
+<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="270,5,398,31"/>
+<area shape="rect" id="node4" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="239,55,429,80"/>
+<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="477,5,655,31"/>
 </map>

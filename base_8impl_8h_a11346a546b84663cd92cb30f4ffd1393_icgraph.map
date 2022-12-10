@@ -1,12 +1,12 @@
 <map id="modbusCRC" name="modbusCRC">
-<area shape="rect" id="node1" title="Calculates 16&#45;bit Modbus CRC of provided data." coords="684,80,779,105"/>
-<area shape="rect" id="node2" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." coords="503,55,629,80"/>
-<area shape="rect" id="node8" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." coords="496,104,636,129"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." coords="265,5,445,31"/>
-<area shape="rect" id="node5" href="$master_8impl_8h.html#a4623d6d41d5e4a148e399fe19051183c" title="Finalizes a Modbus RTU request." coords="272,55,437,80"/>
-<area shape="rect" id="node6" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." coords="266,104,443,129"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " coords="12,5,207,31"/>
-<area shape="rect" id="node7" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " coords="14,104,205,129"/>
-<area shape="rect" id="node9" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." coords="261,153,448,179"/>
-<area shape="rect" id="node10" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " coords="5,153,213,179"/>
+<area shape="rect" id="node1" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="684,80,779,105"/>
+<area shape="rect" id="node2" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="503,55,629,80"/>
+<area shape="rect" id="node8" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="496,104,636,129"/>
+<area shape="rect" id="node3" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="265,5,445,31"/>
+<area shape="rect" id="node5" href="$master_8impl_8h.html#a4623d6d41d5e4a148e399fe19051183c" title="Finalizes a Modbus RTU request." alt="" coords="272,55,437,80"/>
+<area shape="rect" id="node6" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="266,104,443,129"/>
+<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="12,5,207,31"/>
+<area shape="rect" id="node7" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="14,104,205,129"/>
+<area shape="rect" id="node9" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." alt="" coords="261,153,448,179"/>
+<area shape="rect" id="node10" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="5,153,213,179"/>
 </map>

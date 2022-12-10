@@ -1,8 +1,8 @@
 <map id="include/lightmodbus/master.h" name="include/lightmodbus/master.h">
-<area shape="rect" id="node1" title="Master&#39;s types and basic functions (header)" coords="82,5,219,45"/>
-<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" coords="82,269,219,309"/>
-<area shape="rect" id="node4" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" coords="29,181,166,221"/>
-<area shape="rect" id="node5" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" coords="135,93,273,133"/>
-<area shape="rect" id="node6" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" coords="242,181,379,221"/>
-<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" coords="82,357,219,397"/>
+<area shape="rect" id="node1" title="Master&#39;s types and basic functions (header)" alt="" coords="82,5,219,45"/>
+<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="82,269,219,309"/>
+<area shape="rect" id="node4" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" alt="" coords="29,181,166,221"/>
+<area shape="rect" id="node5" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="135,93,273,133"/>
+<area shape="rect" id="node6" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="242,181,379,221"/>
+<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="82,357,219,397"/>
 </map>

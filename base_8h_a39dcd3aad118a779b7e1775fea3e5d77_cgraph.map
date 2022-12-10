@@ -1,4 +1,4 @@
 <map id="modbusPackTCP" name="modbusPackTCP">
-<area shape="rect" id="node1" title="Sets up the MBAP header in a Modbus TCP frame." coords="5,5,129,31"/>
-<area shape="rect" id="node2" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." coords="177,5,275,31"/>
+<area shape="rect" id="node1" title="Sets up the MBAP header in a Modbus TCP frame." alt="" coords="5,5,129,31"/>
+<area shape="rect" id="node2" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="177,5,275,31"/>
 </map>

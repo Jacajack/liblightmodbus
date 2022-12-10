@@ -1,4 +1,4 @@
 <map id="modbusGetGeneralError" name="modbusGetGeneralError">
-<area shape="rect" id="node1" title="Returns general error from ModbusErrorInfo." coords="5,5,167,31"/>
-<area shape="rect" id="node2" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." coords="215,5,361,31"/>
+<area shape="rect" id="node1" title="Returns general error from ModbusErrorInfo." alt="" coords="5,5,167,31"/>
+<area shape="rect" id="node2" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="215,5,361,31"/>
 </map>
