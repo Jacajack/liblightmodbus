@@ -1,11 +1,22 @@
 <map id="llm::Master::parseResponsePDU" name="llm::Master::parseResponsePDU">
-<area shape="rect" id="node1" title=" " alt="" coords="5,84,215,110"/>
-<area shape="rect" id="node2" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="309,35,405,60"/>
-<area shape="rect" id="node5" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." alt="" coords="263,84,451,110"/>
-<area shape="rect" id="node6" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="293,134,420,159"/>
-<area shape="rect" id="node3" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="721,110,868,135"/>
-<area shape="rect" id="node4" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="507,35,665,60"/>
-<area shape="rect" id="node7" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="505,84,667,110"/>
-<area shape="rect" id="node8" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="504,134,668,159"/>
-<area shape="rect" id="node9" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="499,183,673,208"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,214,110"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="308,35,403,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,81,292,58,293,63,178,86"/>
+<area shape="rect" id="Node000005" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." alt="" coords="262,84,449,110"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,94,246,94,246,100,214,100"/>
+<area shape="rect" id="Node000006" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="293,134,418,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="178,108,278,128,277,133,177,113"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="718,110,864,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,32,451,17,521,6,597,5,635,10,671,20,701,35,729,54,771,96,768,99,725,58,699,39,669,25,634,15,596,10,521,11,452,22,397,37"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="506,35,662,61"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,45,490,45,490,50,403,50"/>
+<area shape="rect" id="Node000007" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="504,84,664,110"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="418,130,505,111,506,116,419,136"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="502,134,665,159"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="418,144,487,144,487,149,418,149"/>
+<area shape="rect" id="Node000009" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="497,183,670,209"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="419,157,506,176,505,182,418,162"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="664,104,703,109,703,114,664,110"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="666,134,703,130,703,135,666,140"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="636,180,669,169,745,139,747,144,671,174,638,185"/>
 </map>

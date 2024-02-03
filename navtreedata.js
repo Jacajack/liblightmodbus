@@ -25,10 +25,7 @@
 var NAVTREE =
 [
   [ "liblightmodbus", "index.html", [
-    [ "liblightmodbus - a lightweight, header-only, hardware-agnostic Modbus RTU/TCP library", "index.html", [
-      [ "About this release", "index.html#about", null ],
-      [ "Getting started", "index.html#getting-started", null ]
-    ] ],
+    [ "liblightmodbus - a lightweight, header-only, hardware-agnostic Modbus RTU/TCP library", "index.html", "index" ],
     [ "Building and integrating liblightmodbus", "building.html", [
       [ "Embedded platforms", "building.html#embedded", null ],
       [ "ESP-IDF", "building.html#ESP-IDF", null ]

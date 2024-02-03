@@ -1,5 +1,7 @@
 <map id="modbusBuildRequest0506" name="modbusBuildRequest0506">
-<area shape="rect" id="node1" title="Write single coil/holding register." alt="" coords="212,31,385,56"/>
-<area shape="rect" id="node2" href="$master__func_8h.html#a7151355c8c34af355fd779f88a64e125" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,5,164,31"/>
-<area shape="rect" id="node3" href="$master__func_8h.html#a56779853bdfd2bb75601be746c20eb09" title="Write single holding register &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,55,164,80"/>
+<area shape="rect" id="Node000001" title="Write single coil/holding register." alt="" coords="212,31,384,56"/>
+<area shape="rect" id="Node000002" href="$master__func_8h.html#a7151355c8c34af355fd779f88a64e125" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,34,164,30,164,25,197,29"/>
+<area shape="rect" id="Node000003" href="$master__func_8h.html#a56779853bdfd2bb75601be746c20eb09" title="Write single holding register &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,58,164,61,164,56,196,52"/>
 </map>

@@ -1,7 +1,11 @@
 <map id="llm::Master::freeRequest" name="llm::Master::freeRequest">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,167,56"/>
-<area shape="rect" id="node2" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="215,31,397,56"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="481,5,609,31"/>
-<area shape="rect" id="node5" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="445,55,644,80"/>
-<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="692,5,869,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,166,56"/>
+<area shape="rect" id="Node000002" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="214,31,395,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,41,198,41,198,46,166,46"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="478,5,605,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,31,462,24,463,29,396,36"/>
+<area shape="rect" id="Node000005" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="443,55,640,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="396,50,428,53,427,59,395,55"/>
+<area shape="rect" id="Node000004" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="688,5,865,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="606,16,673,16,673,21,606,21"/>
 </map>

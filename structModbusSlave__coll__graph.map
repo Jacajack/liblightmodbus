@@ -1,6 +1,11 @@
 <map id="ModbusSlave" name="ModbusSlave">
-<area shape="rect" id="node1" title="Slave device status." alt="" coords="139,183,241,209"/>
-<area shape="rect" id="node2" href="$structModbusSlaveFunctionHandler.html" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,93,201,119"/>
-<area shape="rect" id="node3" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." alt="" coords="45,5,162,31"/>
-<area shape="rect" id="node4" href="$structModbusBuffer.html" title="Stores a Modbus frame." alt="" coords="225,93,328,119"/>
+<area shape="rect" id="Node000001" title="Slave device status." alt="" coords="138,185,239,211"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="256,189,265,198,257,206,239,209,239,204,255,201,260,198,252,193"/>
+<area shape="rect" id="Node000002" href="$structModbusSlaveFunctionHandler.html" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,94,201,120"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="127,129,179,183,175,186,123,133"/>
+<area shape="rect" id="Node000003" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." alt="" coords="45,5,161,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="106,47,106,94,100,94,100,47"/>
+<area shape="rect" id="Node000004" href="$structModbusBuffer.html" title="Stores a Modbus frame." alt="" coords="224,94,326,120"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="255,133,202,187,198,183,251,129"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="343,98,352,107,344,115,327,118,326,112,342,110,347,107,340,103"/>
 </map>

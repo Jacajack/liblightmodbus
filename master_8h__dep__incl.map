@@ -1,8 +1,18 @@
 <map id="include/lightmodbus/master.h" name="include/lightmodbus/master.h">
-<area shape="rect" id="node1" title="Master&#39;s types and basic functions (header)" alt="" coords="82,5,219,45"/>
-<area shape="rect" id="node2" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="82,269,219,309"/>
-<area shape="rect" id="node4" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" alt="" coords="29,181,166,221"/>
-<area shape="rect" id="node5" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="135,93,273,133"/>
-<area shape="rect" id="node6" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="242,181,379,221"/>
-<area shape="rect" id="node3" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="82,357,219,397"/>
+<area shape="rect" id="Node000001" title="Master&#39;s types and basic functions (header)" alt="" coords="80,5,216,46"/>
+<area shape="rect" id="Node000002" href="$lightmodbus_8h.html" title="The main library header file (include this one)" alt="" coords="80,271,216,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,57,66,91,29,132,16,154,9,177,9,200,18,222,30,237,45,250,81,270,78,274,42,255,26,241,14,225,4,201,4,176,12,152,25,129,62,87,103,53"/>
+<area shape="rect" id="Node000004" href="$master_8impl_8h.html" title="Master&#39;s types and basic functions (implementation)" alt="" coords="28,183,164,223"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,61,124,95,102,183,97,182,119,93,131,60"/>
+<area shape="rect" id="Node000005" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="133,94,269,135"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="170,58,191,92,187,95,166,61"/>
+<area shape="rect" id="Node000006" href="$master__func_8impl_8h.html" title="Master&#39;s functions for building requests and parsing responses (implementation)" alt="" coords="238,183,375,223"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="229,51,258,68,283,92,296,114,304,138,309,182,304,182,299,139,291,116,279,96,255,73,226,55"/>
+<area shape="rect" id="Node000003" href="$lightmodbus_8hpp.html" title="(Very) experimental liblightmodbus C++ interface" alt="" coords="80,360,216,401"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,328,150,360,145,360,145,328"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="118,235,138,270,134,272,113,238"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="197,151,178,224,160,272,155,270,173,223,192,149"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="167,147,121,184,118,180,164,143"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="238,143,284,180,281,184,235,147"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="258,233,185,273,182,269,256,229"/>
 </map>

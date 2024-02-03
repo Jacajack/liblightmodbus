@@ -1,6 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,107,80"/>
-<area shape="rect" id="node2" href="$classllm_1_1GeneralError.html" title="General error exception class." alt="" coords="161,5,279,31"/>
-<area shape="rect" id="node3" href="$classllm_1_1RequestError.html" title="Request error exception class." alt="" coords="160,55,280,80"/>
-<area shape="rect" id="node4" href="$classllm_1_1ResponseError.html" title="Response error exception class." alt="" coords="155,104,285,129"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,55,106,80"/>
+<area shape="rect" id="Node000001" href="$classllm_1_1GeneralError.html" title="General error exception class." alt="" coords="160,5,277,31"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="114,47,173,29,174,34,116,52"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1RequestError.html" title="Request error exception class." alt="" coords="159,55,278,80"/>
+<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="121,65,159,65,159,70,121,70"/>
+<area shape="rect" id="Node000003" href="$classllm_1_1ResponseError.html" title="Response error exception class." alt="" coords="154,104,283,130"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="116,83,174,101,173,106,114,88"/>
 </map>

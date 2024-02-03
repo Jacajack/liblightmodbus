@@ -1,6 +1,9 @@
 <map id="modbusEndRequestRTU" name="modbusEndRequestRTU">
-<area shape="rect" id="node1" title="Finalizes a Modbus RTU request." alt="" coords="5,31,171,56"/>
-<area shape="rect" id="node2" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="219,31,344,56"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="393,5,487,31"/>
-<area shape="rect" id="node4" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="392,55,488,80"/>
+<area shape="rect" id="Node000001" title="Finalizes a Modbus RTU request." alt="" coords="5,31,170,56"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="218,31,342,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,41,202,41,202,46,170,46"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="391,5,485,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,31,375,25,376,31,343,36"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="390,55,485,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="343,50,375,55,374,61,342,56"/>
 </map>

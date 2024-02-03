@@ -1,5 +1,7 @@
 <map id="modbusMasterAllocateRequest" name="modbusMasterAllocateRequest">
-<area shape="rect" id="node1" title="Allocates memory for the request frame." alt="" coords="5,31,208,56"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="267,5,444,31"/>
-<area shape="rect" id="node3" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="256,55,455,80"/>
+<area shape="rect" id="Node000001" title="Allocates memory for the request frame." alt="" coords="5,31,208,56"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="266,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,30,250,26,251,31,209,36"/>
+<area shape="rect" id="Node000003" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="256,55,453,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,51,240,54,240,59,208,56"/>
 </map>

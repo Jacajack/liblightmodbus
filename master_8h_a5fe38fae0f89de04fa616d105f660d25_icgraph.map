@@ -1,4 +1,5 @@
 <map id="modbusMasterDestroy" name="modbusMasterDestroy">
-<area shape="rect" id="node1" title="Deinitializes a ModbusMaster struct." alt="" coords="192,5,344,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,144,31"/>
+<area shape="rect" id="Node000001" title="Deinitializes a ModbusMaster struct." alt="" coords="191,5,342,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,143,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
 </map>

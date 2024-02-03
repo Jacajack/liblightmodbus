@@ -1,7 +1,11 @@
 <map id="modbusParseResponseRTU" name="modbusParseResponseRTU">
-<area shape="rect" id="node1" title="Parses a Modbus RTU slave response." alt="" coords="5,31,192,56"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." alt="" coords="240,5,428,31"/>
-<area shape="rect" id="node3" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="264,55,404,80"/>
-<area shape="rect" id="node4" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="476,29,571,55"/>
-<area shape="rect" id="node5" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="477,79,570,104"/>
+<area shape="rect" id="Node000001" title="Parses a Modbus RTU slave response." alt="" coords="5,31,192,56"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#ad8e87b7bdda035ea42cacc2241b406e3" title="Parses a PDU section of a slave response." alt="" coords="240,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,31,224,27,224,33,193,36"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="264,55,403,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,50,248,56,248,61,192,56"/>
+<area shape="rect" id="Node000004" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="475,29,569,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="403,55,459,48,460,53,404,61"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="476,79,568,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="404,74,461,81,460,86,403,79"/>
 </map>

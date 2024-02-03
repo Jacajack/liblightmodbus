@@ -1,15 +1,27 @@
 <map id="modbusGetGeneralError" name="modbusGetGeneralError">
-<area shape="rect" id="node1" title="Returns general error from ModbusErrorInfo." alt="" coords="437,252,599,277"/>
-<area shape="rect" id="node2" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="263,252,389,277"/>
-<area shape="rect" id="node3" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="13,5,207,31"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="13,55,207,80"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="13,104,207,129"/>
-<area shape="rect" id="node6" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="45,153,175,179"/>
-<area shape="rect" id="node7" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="14,203,206,228"/>
-<area shape="rect" id="node8" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="15,252,205,277"/>
-<area shape="rect" id="node9" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="15,301,205,327"/>
-<area shape="rect" id="node10" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="5,351,215,376"/>
-<area shape="rect" id="node11" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,400,214,425"/>
-<area shape="rect" id="node12" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="7,449,213,475"/>
-<area shape="rect" id="node13" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,499,169,524"/>
+<area shape="rect" id="Node000001" title="Returns general error from ModbusErrorInfo." alt="" coords="435,252,595,278"/>
+<area shape="rect" id="Node000002" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="262,252,387,278"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,268,387,268,387,262,420,262"/>
+<area shape="rect" id="Node000003" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="12,5,207,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,238,303,195,283,142,253,89,234,65,212,44,195,34,198,29,215,40,238,61,257,86,288,140,308,193,320,237"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="13,55,206,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="311,238,296,205,275,165,247,126,212,94,193,83,195,79,215,89,251,123,280,162,301,202,316,236"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="13,104,206,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="305,240,267,190,241,164,212,143,190,133,192,128,215,139,245,160,271,186,309,237"/>
+<area shape="rect" id="Node000006" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="44,153,175,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="294,244,257,217,213,193,174,180,176,175,215,188,259,212,297,240"/>
+<area shape="rect" id="Node000007" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="14,203,205,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="250,251,168,232,169,226,251,245"/>
+<area shape="rect" id="Node000008" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="14,252,205,278"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="246,268,205,268,205,262,246,262"/>
+<area shape="rect" id="Node000009" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="15,301,204,327"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="251,284,169,303,168,298,250,279"/>
+<area shape="rect" id="Node000010" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="5,351,214,376"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="297,290,259,317,215,342,185,353,183,347,213,337,257,313,294,286"/>
+<area shape="rect" id="Node000011" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,400,213,426"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="309,293,271,343,245,369,215,391,192,402,190,397,212,387,241,365,267,340,305,289"/>
+<area shape="rect" id="Node000012" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="6,449,213,475"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="316,293,301,327,280,367,251,407,215,440,195,451,193,446,212,436,247,403,275,364,296,325,311,291"/>
+<area shape="rect" id="Node000013" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,499,168,524"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="320,293,308,337,288,390,257,444,238,468,215,490,193,502,169,510,167,505,191,497,212,485,234,465,253,441,283,388,303,335,315,292"/>
 </map>

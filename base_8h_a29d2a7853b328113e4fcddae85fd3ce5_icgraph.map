@@ -1,24 +1,61 @@
 <map id="modbusGetErrorCode" name="modbusGetErrorCode">
-<area shape="rect" id="node1" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="715,208,861,233"/>
-<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="499,232,660,257"/>
-<area shape="rect" id="node15" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="497,133,661,159"/>
-<area shape="rect" id="node16" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="492,183,667,208"/>
-<area shape="rect" id="node17" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="531,360,627,385"/>
-<area shape="rect" id="node3" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="290,157,417,183"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="13,12,207,37"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="13,360,207,385"/>
-<area shape="rect" id="node6" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="13,461,207,487"/>
-<area shape="rect" id="node7" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="45,160,175,185"/>
-<area shape="rect" id="node8" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="14,209,206,235"/>
-<area shape="rect" id="node9" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="15,563,205,588"/>
-<area shape="rect" id="node10" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="15,664,205,689"/>
-<area shape="rect" id="node11" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="5,259,215,284"/>
-<area shape="rect" id="node12" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,309,214,335"/>
-<area shape="rect" id="node13" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="7,61,213,87"/>
-<area shape="rect" id="node14" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,111,169,136"/>
-<area shape="rect" id="node18" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="263,5,444,31"/>
-<area shape="rect" id="node19" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="263,411,443,436"/>
-<area shape="rect" id="node20" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="264,512,443,537"/>
-<area shape="rect" id="node21" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="265,613,442,639"/>
-<area shape="rect" id="node22" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="265,715,441,740"/>
+<area shape="rect" id="Node000001" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="711,208,857,234"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="497,232,657,258"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="696,234,658,238,657,233,696,228"/>
+<area shape="rect" id="Node000015" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="495,133,658,159"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="739,204,662,173,629,162,631,157,664,168,741,199"/>
+<area shape="rect" id="Node000016" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="490,183,663,208"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="696,213,664,209,664,203,697,207"/>
+<area shape="rect" id="Node000017" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="529,360,624,386"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="754,246,597,362,594,357,751,241"/>
+<area shape="rect" id="Node000003" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="289,157,415,183"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="509,230,489,223,441,205,390,186,392,181,443,200,491,218,511,225"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="12,12,207,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="323,148,259,90,212,51,187,41,189,36,215,47,262,86,327,145"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="13,360,206,386"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="340,198,320,233,292,274,257,315,215,350,191,362,188,357,212,345,253,311,288,271,316,230,335,195"/>
+<area shape="rect" id="Node000006" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="13,461,206,487"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="341,198,292,292,257,348,216,400,175,436,136,463,133,458,172,432,212,396,253,345,288,289,336,196"/>
+<area shape="rect" id="Node000007" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="44,160,175,186"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="274,174,175,175,175,169,274,168"/>
+<area shape="rect" id="Node000008" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="14,209,205,235"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="275,189,173,211,172,206,274,184"/>
+<area shape="rect" id="Node000009" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="14,563,205,588"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="343,199,276,368,240,453,216,501,177,538,137,564,134,560,174,534,212,498,235,451,271,366,338,197"/>
+<area shape="rect" id="Node000010" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="15,664,204,690"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="341,198,304,287,264,399,252,457,249,504,241,550,232,575,216,602,199,623,180,640,140,666,137,661,176,636,196,619,211,599,227,572,236,548,244,503,247,456,259,397,299,285,336,196"/>
+<area shape="rect" id="Node000011" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="5,259,214,284"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="320,194,271,223,215,250,182,261,180,255,213,245,269,218,317,190"/>
+<area shape="rect" id="Node000012" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="6,309,213,335"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="332,197,283,249,250,276,215,299,186,311,184,306,212,294,247,272,279,245,329,193"/>
+<area shape="rect" id="Node000013" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="6,61,213,87"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="289,154,260,140,246,130,236,119,227,110,212,101,185,90,187,85,215,96,230,106,240,116,249,126,263,136,291,149"/>
+<area shape="rect" id="Node000014" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="51,111,168,136"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="273,158,168,137,169,132,274,153"/>
+<area shape="poly" id="edge15_Node000015_Node000003" title=" " alt="" coords="480,159,415,166,415,161,479,154"/>
+<area shape="poly" id="edge17_Node000016_Node000003" title=" " alt="" coords="474,187,415,180,415,175,475,181"/>
+<area shape="poly" id="edge19_Node000017_Node000004" title=" " alt="" coords="549,351,517,315,488,271,477,246,472,222,471,180,466,141,457,122,440,103,424,92,402,81,343,64,275,49,207,39,208,33,276,44,345,58,404,76,427,87,444,99,461,119,471,140,476,180,478,222,482,244,492,269,521,312,553,348"/>
+<area shape="poly" id="edge20_Node000017_Node000005" title=" " alt="" coords="514,376,207,376,207,370,514,370"/>
+<area shape="poly" id="edge21_Node000017_Node000006" title=" " alt="" coords="547,397,500,427,443,451,383,466,321,475,206,481,206,475,320,470,382,461,441,446,497,422,544,393"/>
+<area shape="poly" id="edge32_Node000017_Node000008" title=" " alt="" coords="546,353,498,320,441,290,382,270,320,254,205,234,206,229,321,249,383,264,443,285,501,315,549,348"/>
+<area shape="poly" id="edge33_Node000017_Node000009" title=" " alt="" coords="566,401,548,437,521,479,486,520,443,552,385,576,323,589,261,593,205,591,205,586,261,587,322,583,384,571,441,548,483,516,517,476,543,434,562,399"/>
+<area shape="poly" id="edge34_Node000017_Node000010" title=" " alt="" coords="574,402,562,457,538,527,521,563,500,597,474,628,444,654,413,671,379,684,309,697,240,699,179,693,180,688,240,693,308,692,378,679,410,666,440,649,470,624,495,594,516,560,533,525,556,456,569,401"/>
+<area shape="poly" id="edge35_Node000017_Node000011" title=" " alt="" coords="529,356,441,327,324,303,214,286,214,280,325,297,443,322,530,351"/>
+<area shape="poly" id="edge36_Node000017_Node000012" title=" " alt="" coords="513,366,442,357,213,334,214,328,442,352,514,361"/>
+<area shape="poly" id="edge37_Node000017_Node000013" title=" " alt="" coords="549,350,518,314,488,271,474,235,469,203,462,175,454,161,440,147,403,127,346,111,213,88,214,83,347,106,405,122,444,143,458,158,467,173,474,202,479,234,492,269,522,311,553,347"/>
+<area shape="rect" id="Node000018" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="262,5,442,31"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="548,351,516,315,488,271,475,239,471,209,472,155,472,129,469,104,459,79,440,52,414,34,418,29,444,48,464,76,474,103,477,129,477,155,476,208,481,237,492,269,520,312,552,347"/>
+<area shape="rect" id="Node000019" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="262,411,442,436"/>
+<area shape="poly" id="edge24_Node000017_Node000019" title=" " alt="" coords="515,389,413,413,411,407,514,384"/>
+<area shape="rect" id="Node000020" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="263,512,441,538"/>
+<area shape="poly" id="edge26_Node000017_Node000020" title=" " alt="" coords="556,399,507,447,476,473,443,495,402,514,400,509,441,491,473,468,503,443,552,395"/>
+<area shape="rect" id="Node000021" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="264,613,440,639"/>
+<area shape="poly" id="edge28_Node000017_Node000021" title=" " alt="" coords="568,401,551,444,524,496,488,549,444,596,410,615,408,610,440,592,484,546,520,493,546,441,563,399"/>
+<area shape="rect" id="Node000022" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="264,715,440,740"/>
+<area shape="poly" id="edge30_Node000017_Node000022" title=" " alt="" coords="574,402,562,462,538,541,521,583,500,624,474,663,444,698,414,716,411,712,440,693,470,660,495,622,516,581,533,539,557,461,569,401"/>
+<area shape="poly" id="edge23_Node000018_Node000004" title=" " alt="" coords="246,24,207,25,207,19,246,18"/>
+<area shape="poly" id="edge25_Node000019_Node000005" title=" " alt="" coords="272,410,174,389,175,384,273,404"/>
+<area shape="poly" id="edge27_Node000020_Node000006" title=" " alt="" coords="272,511,174,490,175,485,273,506"/>
+<area shape="poly" id="edge29_Node000021_Node000009" title=" " alt="" coords="272,612,174,592,175,586,273,607"/>
+<area shape="poly" id="edge31_Node000022_Node000010" title=" " alt="" coords="272,714,174,693,175,688,273,708"/>
 </map>

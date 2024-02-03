@@ -1,8 +1,13 @@
 <map id="modbusBuildRequest05" name="modbusBuildRequest05">
-<area shape="rect" id="node1" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,55,164,80"/>
-<area shape="rect" id="node2" href="$master__func_8impl_8h.html#a5309a3003ea2d248e51193e75ab30044" title="Write single coil/holding register." alt="" coords="212,55,385,80"/>
-<area shape="rect" id="node3" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="433,29,636,55"/>
-<area shape="rect" id="node6" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="486,79,583,104"/>
-<area shape="rect" id="node4" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="695,5,872,31"/>
-<area shape="rect" id="node5" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="684,55,883,80"/>
+<area shape="rect" id="Node000001" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,55,164,80"/>
+<area shape="rect" id="Node000002" href="$master__func_8impl_8h.html#a5309a3003ea2d248e51193e75ab30044" title="Write single coil/holding register." alt="" coords="212,55,384,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,65,196,65,196,70,164,70"/>
+<area shape="rect" id="Node000003" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="432,29,634,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,56,416,52,417,57,385,61"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="485,79,581,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="385,74,470,82,469,88,384,79"/>
+<area shape="rect" id="Node000004" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="693,5,869,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="635,30,677,26,678,31,635,35"/>
+<area shape="rect" id="Node000005" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="682,55,880,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="635,50,667,53,667,58,635,55"/>
 </map>

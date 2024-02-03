@@ -1,8 +1,13 @@
 var searchData=
 [
-  ['freerequest_0',['freeRequest',['../classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423',1,'llm::Master']]],
-  ['freeresponse_1',['freeResponse',['../classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a',1,'llm::Slave']]],
-  ['function_2',['function',['../structModbusDataCallbackArgs.html#a164f69c8dc82314a92fbbcfc8fbab7dc',1,'ModbusDataCallbackArgs::function()'],['../structModbusRegisterCallbackArgs.html#a4b9aa7794ff24a924d3c917140c32231',1,'ModbusRegisterCallbackArgs::function()']]],
-  ['functioncount_3',['functionCount',['../structModbusMaster.html#ae37593b1a10fd8d73228e40ad7c5fe89',1,'ModbusMaster::functionCount()'],['../structModbusSlave.html#a032692261e4c61f673c5a90b661d5917',1,'ModbusSlave::functionCount()']]],
-  ['functions_4',['functions',['../structModbusMaster.html#aa52d02053ec246f426dc9ad63c9797a4',1,'ModbusMaster::functions()'],['../structModbusSlave.html#a317bf6a51a6b0fb3b8fee77bbc517fe1',1,'ModbusSlave::functions()']]]
+  ['ecase_0',['ECASE',['../debug_8impl_8h.html#a976e9097a2c3473134baa40e170fab2b',1,'debug.impl.h']]],
+  ['embedded_20platforms_1',['Embedded platforms',['../building.html#embedded',1,'']]],
+  ['error_2',['error',['../structModbusErrorInfo.html#a8d9ae151fcc30572bef6f80c347fbd23',1,'ModbusErrorInfo']]],
+  ['error_20handling_3',['Error handling',['../error-handling.html',1,'']]],
+  ['estr_4',['ESTR',['../debug_8impl_8h.html#a5042104432b84aa9aa0db601e767df52',1,'debug.impl.h']]],
+  ['example_5',['Example',['../slave.html#slave-register-callback-example',1,'']]],
+  ['examples_6',['Examples',['../examples.html',1,'']]],
+  ['exception_20callback_7',['exception callback',['../master.html#master-exception-callback',1,'Exception callback'],['../slave.html#slave-exception-callback',1,'Slave exception callback']]],
+  ['exceptioncallback_8',['exceptioncallback',['../structModbusMaster.html#ac4901d3860dd137b979ba3a451a4eb44',1,'ModbusMaster::exceptionCallback'],['../structModbusSlave.html#a1b7a8b269856777d1f5395cd9957f11f',1,'ModbusSlave::exceptionCallback']]],
+  ['exceptioncode_9',['exceptionCode',['../structModbusRegisterCallbackResult.html#ace247f046fbae54243e8303a295ec2f8',1,'ModbusRegisterCallbackResult']]]
 ];

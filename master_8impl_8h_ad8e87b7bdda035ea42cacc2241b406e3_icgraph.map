@@ -1,8 +1,13 @@
 <map id="modbusParseResponsePDU" name="modbusParseResponsePDU">
-<area shape="rect" id="node1" title="Parses a PDU section of a slave response." alt="" coords="519,55,707,80"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." alt="" coords="273,5,459,31"/>
-<area shape="rect" id="node4" href="$master_8impl_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." alt="" coords="273,55,459,80"/>
-<area shape="rect" id="node6" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="261,104,471,129"/>
-<area shape="rect" id="node3" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="5,5,213,31"/>
-<area shape="rect" id="node5" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="6,55,213,80"/>
+<area shape="rect" id="Node000001" title="Parses a PDU section of a slave response." alt="" coords="517,55,704,80"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." alt="" coords="272,5,458,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,54,432,34,433,29,529,48"/>
+<area shape="rect" id="Node000004" href="$master_8impl_8h.html#a53ea67c733b1e627e1cdcb0003270a1b" title="Parses a Modbus TCP slave response." alt="" coords="272,55,458,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,70,458,70,458,65,501,65"/>
+<area shape="rect" id="Node000006" href="$classllm_1_1Master.html#a39b0210172c76ef4dc9e43668daef7c9" title=" " alt="" coords="261,104,469,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="529,87,433,106,432,101,527,81"/>
+<area shape="rect" id="Node000003" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,21,213,21,213,16,256,16"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Master.html#ad1f614f5d44a61a8507ae34968fa7903" title=" " alt="" coords="6,55,212,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,70,212,70,212,65,257,65"/>
 </map>

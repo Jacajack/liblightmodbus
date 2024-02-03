@@ -1,4 +1,5 @@
 <map id="llm::Master::setUserPointer" name="llm::Master::setUserPointer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,184,31"/>
-<area shape="rect" id="node2" href="$master_8h.html#a132c99f27b1c5132f38bef05e9c8e260" title="Allows user to set the custom context pointer." alt="" coords="232,5,429,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,183,31"/>
+<area shape="rect" id="Node000002" href="$master_8h.html#a132c99f27b1c5132f38bef05e9c8e260" title="Allows user to set the custom context pointer." alt="" coords="231,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,16,215,16,215,21,183,21"/>
 </map>

@@ -1,7 +1,11 @@
 <map id="modbusBuildRequest01020304" name="modbusBuildRequest01020304">
-<area shape="rect" id="node1" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,80,413,105"/>
-<area shape="rect" id="node2" href="$master__func_8h.html#aadb2b7e2d3ee4fbde22cdf076713d75e" title="Read multiple coils &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,5,164,31"/>
-<area shape="rect" id="node3" href="$master__func_8h.html#a2a6452a8200d77483254bef08ee2cf8c" title="Read multiple discrete inputs &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,55,164,80"/>
-<area shape="rect" id="node4" href="$master__func_8h.html#a1c7ed51c58b1ef42ee176833c7fd0515" title="Read multiple holding registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,104,164,129"/>
-<area shape="rect" id="node5" href="$master__func_8h.html#a22bf4541196b3e88c0a86861d334e3b1" title="Read multiple input registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,153,164,179"/>
+<area shape="rect" id="Node000001" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,80,412,106"/>
+<area shape="rect" id="Node000002" href="$master__func_8h.html#aadb2b7e2d3ee4fbde22cdf076713d75e" title="Read multiple coils &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,77,163,45,130,34,131,29,164,40,259,72"/>
+<area shape="rect" id="Node000003" href="$master__func_8h.html#a2a6452a8200d77483254bef08ee2cf8c" title="Read multiple discrete inputs &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,83,164,79,165,74,196,77"/>
+<area shape="rect" id="Node000004" href="$master__func_8h.html#a1c7ed51c58b1ef42ee176833c7fd0515" title="Read multiple holding registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,104,164,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,108,165,111,164,106,196,102"/>
+<area shape="rect" id="Node000005" href="$master__func_8h.html#a22bf4541196b3e88c0a86861d334e3b1" title="Read multiple input registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,153,164,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="258,114,164,145,131,155,129,150,163,140,256,109"/>
 </map>

@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['ecase_0',['ECASE',['../debug_8impl_8h.html#a976e9097a2c3473134baa40e170fab2b',1,'debug.impl.h']]],
-  ['error_1',['error',['../structModbusErrorInfo.html#a8d9ae151fcc30572bef6f80c347fbd23',1,'ModbusErrorInfo']]],
-  ['error_20handling_2',['Error handling',['../error-handling.html',1,'']]],
-  ['estr_3',['ESTR',['../debug_8impl_8h.html#a5042104432b84aa9aa0db601e767df52',1,'debug.impl.h']]],
-  ['examples_4',['Examples',['../examples.html',1,'']]],
-  ['exceptioncallback_5',['exceptionCallback',['../structModbusMaster.html#ac4901d3860dd137b979ba3a451a4eb44',1,'ModbusMaster::exceptionCallback()'],['../structModbusSlave.html#a1b7a8b269856777d1f5395cd9957f11f',1,'ModbusSlave::exceptionCallback()']]],
-  ['exceptioncode_6',['exceptionCode',['../structModbusRegisterCallbackResult.html#ace247f046fbae54243e8303a295ec2f8',1,'ModbusRegisterCallbackResult']]]
+  ['data_0',['data',['../structModbusBuffer.html#a84923d04c205a599d32f353e849adafb',1,'ModbusBuffer']]],
+  ['data_20callback_1',['Data callback',['../master.html#master-data-callback',1,'']]],
+  ['datacallback_2',['dataCallback',['../structModbusMaster.html#a9634041fa75c1ccb53c1e06e836a475a',1,'ModbusMaster']]],
+  ['debug_2eh_3',['debug.h',['../debug_8h.html',1,'']]],
+  ['debug_2eimpl_2eh_4',['debug.impl.h',['../debug_8impl_8h.html',1,'']]],
+  ['defined_20functions_5',['User-defined functions',['../user-functions.html',1,'']]],
+  ['device_6',['device',['../master.html',1,'Master device'],['../slave.html',1,'Slave device']]]
 ];

@@ -1,7 +1,11 @@
 <map id="modbusBufferDestroy" name="modbusBufferDestroy">
-<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="392,31,539,56"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="192,5,344,31"/>
-<area shape="rect" id="node4" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="195,55,341,80"/>
-<area shape="rect" id="node3" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,144,31"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="13,55,137,80"/>
+<area shape="rect" id="Node000001" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="390,31,535,56"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="191,5,342,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,35,342,31,343,25,375,30"/>
+<area shape="rect" id="Node000004" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="194,55,339,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,57,339,61,339,56,374,52"/>
+<area shape="rect" id="Node000003" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="5,5,143,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,21,143,21,143,16,175,16"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="12,55,136,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,70,136,70,136,65,179,65"/>
 </map>

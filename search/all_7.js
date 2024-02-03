@@ -1,5 +1,10 @@
 var searchData=
 [
-  ['id_0',['id',['../structModbusMasterFunctionHandler.html#a019bdf2f0ffb0d9137760c58b73e4fa9',1,'ModbusMasterFunctionHandler::id()'],['../structModbusSlaveFunctionHandler.html#a51849c5ab9cf1c932588e63a3c70e55f',1,'ModbusSlaveFunctionHandler::id()']]],
-  ['index_1',['index',['../structModbusDataCallbackArgs.html#aa74530fdd8af6db1bf86226c61c02235',1,'ModbusDataCallbackArgs::index()'],['../structModbusRegisterCallbackArgs.html#ac5c5eb97d6d21ffa4faa528c2a409d8f',1,'ModbusRegisterCallbackArgs::index()']]]
+  ['generalerror_0',['generalerror',['../classllm_1_1GeneralError.html',1,'llm::GeneralError'],['../classllm_1_1GeneralError.html#aefc8c3bbb83dc90fa97b3c8d8581e535',1,'llm::GeneralError::GeneralError()']]],
+  ['getrequest_1',['getRequest',['../classllm_1_1Master.html#a75d871310f89bbffaf16ac7ffb4abb6e',1,'llm::Master']]],
+  ['getrequestlength_2',['getRequestLength',['../classllm_1_1Master.html#a245566df1aecd77076f486b7da9aaf4e',1,'llm::Master']]],
+  ['getresponse_3',['getResponse',['../classllm_1_1Slave.html#a621b806e40cb6ed8b55a0ea5478b3080',1,'llm::Slave']]],
+  ['getresponselength_4',['getResponseLength',['../classllm_1_1Slave.html#aaefe26c688af2f7acec180c2587cbc32',1,'llm::Slave']]],
+  ['getting_20started_5',['Getting started',['../index.html#getting-started',1,'']]],
+  ['getuserpointer_6',['getuserpointer',['../classllm_1_1Slave.html#aed386c714ccc44c9f3151ba18826a9d5',1,'llm::Slave::getUserPointer()'],['../classllm_1_1Master.html#abd27128b7899148b8aa8531587e51ddc',1,'llm::Master::getUserPointer()']]]
 ];

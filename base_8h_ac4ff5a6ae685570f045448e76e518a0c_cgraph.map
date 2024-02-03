@@ -1,5 +1,7 @@
 <map id="modbusBufferDestroy" name="modbusBufferDestroy">
-<area shape="rect" id="node1" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="5,5,152,31"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="200,5,328,31"/>
-<area shape="rect" id="node3" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="376,5,553,31"/>
+<area shape="rect" id="Node000001" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="5,5,151,31"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="199,5,326,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,16,183,16,183,21,151,21"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="374,5,550,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="327,16,358,16,358,21,327,21"/>
 </map>

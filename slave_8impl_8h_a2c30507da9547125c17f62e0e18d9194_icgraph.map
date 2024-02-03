@@ -1,4 +1,5 @@
 <map id="modbusSlaveInit" name="modbusSlaveInit">
-<area shape="rect" id="node1" title="Initializes slave device." alt="" coords="171,5,289,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="5,5,123,31"/>
+<area shape="rect" id="Node000001" title="Initializes slave device." alt="" coords="170,5,288,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="5,5,122,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,122,21,122,16,154,16"/>
 </map>

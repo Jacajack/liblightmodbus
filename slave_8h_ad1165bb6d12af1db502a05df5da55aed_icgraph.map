@@ -1,21 +1,43 @@
 <map id="modbusSlaveAllocateResponse" name="modbusSlaveAllocateResponse">
-<area shape="rect" id="node1" title="Allocates memory for slave&#39;s response frame." alt="" coords="944,252,1151,277"/>
-<area shape="rect" id="node2" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="743,151,896,176"/>
-<area shape="rect" id="node16" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="488,203,695,228"/>
-<area shape="rect" id="node17" href="$slave__func_8impl_8h.html#a236881fe30a95d4cc9b031a9e24ae2a8" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="502,252,681,277"/>
-<area shape="rect" id="node18" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="502,303,681,328"/>
-<area shape="rect" id="node19" href="$slave__func_8impl_8h.html#a814f041d9acfa578998b8ce8fe53815c" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="509,352,673,377"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="501,5,682,31"/>
-<area shape="rect" id="node5" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="501,55,681,80"/>
-<area shape="rect" id="node7" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="502,104,681,129"/>
-<area shape="rect" id="node9" href="$slave_8impl_8h.html#aff0a9164a0e37aa619232ae86e3ff97a" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="516,153,667,179"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="245,5,440,31"/>
-<area shape="rect" id="node6" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="245,55,440,80"/>
-<area shape="rect" id="node8" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="246,104,439,129"/>
-<area shape="rect" id="node10" href="$slave_8impl_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="253,153,432,179"/>
-<area shape="rect" id="node12" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="254,203,431,228"/>
-<area shape="rect" id="node14" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="255,252,431,277"/>
-<area shape="rect" id="node11" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,153,197,179"/>
-<area shape="rect" id="node13" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="6,203,197,228"/>
-<area shape="rect" id="node15" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="6,252,197,277"/>
+<area shape="rect" id="Node000001" title="Allocates memory for slave&#39;s response frame." alt="" coords="941,252,1146,278"/>
+<area shape="rect" id="Node000002" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="740,151,893,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="999,248,892,198,849,179,851,175,894,193,1001,243"/>
+<area shape="rect" id="Node000016" href="$slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="487,203,692,228"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="925,253,892,249,693,228,693,223,893,244,925,247"/>
+<area shape="rect" id="Node000017" href="$slave__func_8impl_8h.html#a236881fe30a95d4cc9b031a9e24ae2a8" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="501,252,678,278"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="925,268,679,268,679,262,925,262"/>
+<area shape="rect" id="Node000018" href="$slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071" title="Handles requests 15 and 16 (Write Multiple XX) and generates response." alt="" coords="501,303,678,328"/>
+<area shape="poly" id="edge21_Node000001_Node000018" title=" " alt="" coords="925,281,679,308,678,303,925,275"/>
+<area shape="rect" id="Node000019" href="$slave__func_8impl_8h.html#a814f041d9acfa578998b8ce8fe53815c" title="Handles request 22 (Mask Write Register) and generates response." alt="" coords="508,352,671,378"/>
+<area shape="poly" id="edge22_Node000001_Node000019" title=" " alt="" coords="979,285,893,306,663,354,662,349,892,301,978,280"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a384f75966903cc0c249eb68a6a20180e" title="Builds an exception PDU." alt="" coords="500,5,680,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="795,140,751,91,722,66,691,45,667,34,669,29,694,40,726,61,755,87,799,137"/>
+<area shape="rect" id="Node000005" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="500,55,679,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="783,144,740,118,691,94,659,83,661,78,693,89,743,113,785,139"/>
+<area shape="rect" id="Node000007" href="$slave_8impl_8h.html#a778e65356f7da66831f18ec53b975383" title="Builds a Modbus TCP exception." alt="" coords="501,104,679,130"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="735,149,655,133,656,128,736,144"/>
+<area shape="rect" id="Node000009" href="$slave_8impl_8h.html#aff0a9164a0e37aa619232ae86e3ff97a" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="515,153,664,179"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="725,167,665,168,665,163,725,162"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="743,183,650,205,648,199,742,178"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="787,188,744,217,693,243,662,254,660,249,691,238,742,212,784,184"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="799,191,755,243,726,270,694,292,666,304,664,300,691,288,723,266,751,239,795,188"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="807,192,789,226,765,268,733,309,694,343,673,354,671,349,691,339,729,305,760,265,785,224,802,189"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="245,5,439,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="484,21,439,21,439,16,484,16"/>
+<area shape="rect" id="Node000006" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="245,55,439,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="484,70,439,70,439,65,484,65"/>
+<area shape="rect" id="Node000008" href="$classllm_1_1Slave.html#a844c37870a4e98bffc091ddfafb8f959" title=" " alt="" coords="246,104,438,130"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="485,120,438,120,438,114,485,114"/>
+<area shape="rect" id="Node000010" href="$slave_8impl_8h.html#ab5c5f3146a46cf8d221aca22e9c8a052" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="253,153,431,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="500,169,431,169,431,164,500,164"/>
+<area shape="rect" id="Node000012" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="254,203,430,228"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="507,185,411,205,410,199,506,180"/>
+<area shape="rect" id="Node000014" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="254,252,430,278"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="501,186,488,192,474,204,465,217,456,230,440,243,417,254,414,249,438,239,452,227,461,214,470,201,486,188,499,181"/>
+<area shape="rect" id="Node000011" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,153,197,179"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="238,169,197,169,197,164,238,164"/>
+<area shape="rect" id="Node000013" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="6,203,196,228"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="238,218,196,218,196,213,238,213"/>
+<area shape="rect" id="Node000015" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="6,252,196,278"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="238,268,196,268,196,262,238,262"/>
 </map>

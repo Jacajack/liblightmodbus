@@ -1,4 +1,5 @@
 <map id="include/lightmodbus/base.h" name="include/lightmodbus/base.h">
-<area shape="rect" id="node1" title="Common types and functions (header)" alt="" coords="5,5,143,45"/>
-<area shape="rect" id="node2" title=" " alt="" coords="42,93,106,119"/>
+<area shape="rect" id="Node000001" title="Common types and functions (header)" alt="" coords="5,5,142,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,94,105,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,46,76,78,71,78,71,46"/>
 </map>

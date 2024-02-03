@@ -1,4 +1,5 @@
 <map id="modbusBuildExceptionPDU" name="modbusBuildExceptionPDU">
-<area shape="rect" id="node1" title="Builds an exception PDU." alt="" coords="248,5,429,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000001" title="Builds an exception PDU." alt="" coords="248,5,428,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Slave.html#ac915e0947f733a784a9069f5ff5b9737" title=" " alt="" coords="5,5,200,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,21,200,21,200,16,232,16"/>
 </map>

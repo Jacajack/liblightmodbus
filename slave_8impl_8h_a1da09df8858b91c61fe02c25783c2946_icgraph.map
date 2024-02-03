@@ -1,4 +1,5 @@
 <map id="modbusBuildExceptionRTU" name="modbusBuildExceptionRTU">
-<area shape="rect" id="node1" title="Builds a Modbus RTU exception." alt="" coords="248,5,428,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000001" title="Builds a Modbus RTU exception." alt="" coords="247,5,426,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="5,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,21,199,21,199,16,231,16"/>
 </map>

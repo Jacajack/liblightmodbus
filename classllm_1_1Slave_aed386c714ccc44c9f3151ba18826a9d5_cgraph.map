@@ -1,4 +1,5 @@
 <map id="llm::Slave::getUserPointer" name="llm::Slave::getUserPointer">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,176,31"/>
-<area shape="rect" id="node2" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="224,5,415,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,31"/>
+<area shape="rect" id="Node000002" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="224,5,414,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,16,208,16,208,21,176,21"/>
 </map>

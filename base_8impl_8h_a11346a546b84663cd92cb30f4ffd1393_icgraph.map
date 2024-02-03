@@ -1,12 +1,22 @@
 <map id="modbusCRC" name="modbusCRC">
-<area shape="rect" id="node1" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="684,80,779,105"/>
-<area shape="rect" id="node2" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="503,55,629,80"/>
-<area shape="rect" id="node8" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="496,104,636,129"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="265,5,445,31"/>
-<area shape="rect" id="node5" href="$master_8impl_8h.html#a4623d6d41d5e4a148e399fe19051183c" title="Finalizes a Modbus RTU request." alt="" coords="272,55,437,80"/>
-<area shape="rect" id="node6" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="266,104,443,129"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="12,5,207,31"/>
-<area shape="rect" id="node7" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="14,104,205,129"/>
-<area shape="rect" id="node9" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." alt="" coords="261,153,448,179"/>
-<area shape="rect" id="node10" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="5,153,213,179"/>
+<area shape="rect" id="Node000001" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="682,80,777,106"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="503,55,627,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,86,627,80,627,74,667,81"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="495,104,634,130"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="667,105,635,109,634,104,666,99"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="264,5,444,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,53,411,34,413,29,492,48"/>
+<area shape="rect" id="Node000005" href="$master_8impl_8h.html#a4623d6d41d5e4a148e399fe19051183c" title="Finalizes a Modbus RTU request." alt="" coords="272,55,436,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="487,70,437,70,437,65,487,65"/>
+<area shape="rect" id="Node000006" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="266,104,442,130"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="492,87,413,106,411,101,491,82"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="12,5,206,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,21,206,21,206,16,249,16"/>
+<area shape="rect" id="Node000007" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="14,104,204,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="250,120,205,120,205,114,250,114"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="479,120,442,120,442,114,479,114"/>
+<area shape="rect" id="Node000009" href="$master_8impl_8h.html#a151b85c221ae43804856eb92737498e5" title="Parses a Modbus RTU slave response." alt="" coords="261,153,447,179"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="492,136,413,155,411,150,491,131"/>
+<area shape="rect" id="Node000010" href="$classllm_1_1Master.html#ab052e172e96808744ee43a8eff80b679" title=" " alt="" coords="5,153,213,179"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="245,169,213,169,213,164,245,164"/>
 </map>

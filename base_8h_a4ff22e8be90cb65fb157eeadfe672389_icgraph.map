@@ -1,7 +1,11 @@
 <map id="modbusBufferInit" name="modbusBufferInit">
-<area shape="rect" id="node1" title="Initializes a buffer for use." alt="" coords="359,31,479,56"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." alt="" coords="184,5,311,31"/>
-<area shape="rect" id="node4" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="188,55,307,80"/>
-<area shape="rect" id="node3" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="5,5,136,31"/>
-<area shape="rect" id="node5" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="12,55,129,80"/>
+<area shape="rect" id="Node000001" title="Initializes a buffer for use." alt="" coords="357,31,476,56"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#af3c4b8930f540697662dfdb0788f38ef" title="Initializes a ModbusMaster struct." alt="" coords="184,5,309,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,35,309,30,310,25,342,30"/>
+<area shape="rect" id="Node000004" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="187,55,306,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,57,306,62,306,57,341,51"/>
+<area shape="rect" id="Node000003" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
+<area shape="rect" id="Node000005" href="$classllm_1_1Slave.html#a6824a1d0fcfd26d8bedaa934f0abcf39" title=" " alt="" coords="12,55,129,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,70,129,70,129,65,172,65"/>
 </map>

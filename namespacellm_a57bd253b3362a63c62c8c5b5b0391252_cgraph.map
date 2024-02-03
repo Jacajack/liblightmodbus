@@ -1,7 +1,13 @@
 <map id="llm::throwErrorInfo" name="llm::throwErrorInfo">
-<area shape="rect" id="node1" title="Throws an exception based on ModbusErrorInfo." alt="" coords="5,55,132,80"/>
-<area shape="rect" id="node2" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="187,5,348,31"/>
-<area shape="rect" id="node4" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="185,55,349,80"/>
-<area shape="rect" id="node5" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="180,104,355,129"/>
-<area shape="rect" id="node3" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="403,55,549,80"/>
+<area shape="rect" id="Node000001" title="Throws an exception based on ModbusErrorInfo." alt="" coords="5,55,131,80"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="185,5,346,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,51,196,33,197,38,123,57"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="184,55,347,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,65,168,65,168,70,131,70"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="179,104,352,130"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="123,78,197,97,196,102,122,84"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="400,55,545,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,29,401,48,400,53,322,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="348,65,384,65,384,70,348,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="322,101,400,82,401,87,323,106"/>
 </map>

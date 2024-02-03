@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['generalerror_0',['GeneralError',['../classllm_1_1GeneralError.html#aefc8c3bbb83dc90fa97b3c8d8581e535',1,'llm::GeneralError::GeneralError()'],['../classllm_1_1GeneralError.html',1,'llm::GeneralError']]],
-  ['getrequest_1',['getRequest',['../classllm_1_1Master.html#a75d871310f89bbffaf16ac7ffb4abb6e',1,'llm::Master']]],
-  ['getrequestlength_2',['getRequestLength',['../classllm_1_1Master.html#a245566df1aecd77076f486b7da9aaf4e',1,'llm::Master']]],
-  ['getresponse_3',['getResponse',['../classllm_1_1Slave.html#a621b806e40cb6ed8b55a0ea5478b3080',1,'llm::Slave']]],
-  ['getresponselength_4',['getResponseLength',['../classllm_1_1Slave.html#aaefe26c688af2f7acec180c2587cbc32',1,'llm::Slave']]],
-  ['getuserpointer_5',['getUserPointer',['../classllm_1_1Slave.html#aed386c714ccc44c9f3151ba18826a9d5',1,'llm::Slave::getUserPointer()'],['../classllm_1_1Master.html#abd27128b7899148b8aa8531587e51ddc',1,'llm::Master::getUserPointer()']]]
+  ['freerequest_0',['freeRequest',['../classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423',1,'llm::Master']]],
+  ['freeresponse_1',['freeResponse',['../classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a',1,'llm::Slave']]],
+  ['from_20v2_200_20to_20v3_200_2',['Porting code from v2.0 to v3.0',['../porting.html',1,'']]],
+  ['function_3',['function',['../structModbusDataCallbackArgs.html#a164f69c8dc82314a92fbbcfc8fbab7dc',1,'ModbusDataCallbackArgs::function'],['../structModbusRegisterCallbackArgs.html#a4b9aa7794ff24a924d3c917140c32231',1,'ModbusRegisterCallbackArgs::function']]],
+  ['functioncount_4',['functioncount',['../structModbusMaster.html#ae37593b1a10fd8d73228e40ad7c5fe89',1,'ModbusMaster::functionCount'],['../structModbusSlave.html#a032692261e4c61f673c5a90b661d5917',1,'ModbusSlave::functionCount']]],
+  ['functions_5',['functions',['../structModbusMaster.html#aa52d02053ec246f426dc9ad63c9797a4',1,'ModbusMaster::functions'],['../structModbusSlave.html#a317bf6a51a6b0fb3b8fee77bbc517fe1',1,'ModbusSlave::functions'],['../user-functions.html',1,'User-defined functions']]]
 ];

@@ -1,12 +1,22 @@
 <map id="modbusParseRequest01020304" name="modbusParseRequest01020304">
-<area shape="rect" id="node1" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="5,156,212,181"/>
-<area shape="rect" id="node2" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="274,5,413,31"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="267,55,420,80"/>
-<area shape="rect" id="node4" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="475,80,681,105"/>
-<area shape="rect" id="node7" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="260,156,427,181"/>
-<area shape="rect" id="node8" href="$base_8h.html#a5d9947eb500e2d0c87491a0adce53c2a" title="Writes n&#45;th bit in an array." alt="" coords="278,205,409,231"/>
-<area shape="rect" id="node9" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="296,255,391,280"/>
-<area shape="rect" id="node10" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="295,304,392,329"/>
-<area shape="rect" id="node5" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="736,55,913,80"/>
-<area shape="rect" id="node6" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="729,104,920,129"/>
+<area shape="rect" id="Node000001" title="Handles requests 01, 02, 03 and 04 (Read Multiple XX) and generates response." alt="" coords="5,156,211,182"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="272,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,154,175,99,214,67,257,40,268,35,270,40,260,44,218,72,179,103,123,158"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="265,55,418,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,153,258,97,290,84,292,89,260,102,138,158"/>
+<area shape="rect" id="Node000004" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="472,80,677,106"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="188,153,258,141,473,106,474,111,259,146,188,158"/>
+<area shape="rect" id="Node000007" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="259,156,424,182"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,166,243,166,243,172,211,172"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#a5d9947eb500e2d0c87491a0adce53c2a" title="Writes n&#45;th bit in an array." alt="" coords="277,205,406,231"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="173,180,263,199,262,204,172,185"/>
+<area shape="rect" id="Node000009" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="295,255,388,280"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="134,180,190,210,260,241,281,249,279,254,258,246,188,214,131,184"/>
+<area shape="rect" id="Node000010" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="293,304,390,330"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="123,180,179,233,218,264,260,290,280,299,277,304,257,295,215,268,176,237,120,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,73,457,77,456,83,417,78"/>
+<area shape="rect" id="Node000005" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="732,55,909,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="677,80,716,76,717,81,678,85"/>
+<area shape="rect" id="Node000006" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="725,104,916,130"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="678,100,710,103,710,109,677,106"/>
 </map>

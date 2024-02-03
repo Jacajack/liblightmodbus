@@ -1,14 +1,25 @@
 <map id="modbusBufferFree" name="modbusBufferFree">
-<area shape="rect" id="node1" title="Frees memory allocated inside the buffer." alt="" coords="703,104,831,129"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="489,55,635,80"/>
-<area shape="rect" id="node7" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="471,104,653,129"/>
-<area shape="rect" id="node9" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="469,153,655,179"/>
-<area shape="rect" id="node3" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="257,5,409,31"/>
-<area shape="rect" id="node5" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="260,55,405,80"/>
-<area shape="rect" id="node4" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="31,5,170,31"/>
-<area shape="rect" id="node6" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="39,55,163,80"/>
-<area shape="rect" id="node8" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="252,104,413,129"/>
-<area shape="rect" id="node10" href="$classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a" title=" " alt="" coords="251,153,415,179"/>
-<area shape="rect" id="node11" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,203,421,228"/>
-<area shape="rect" id="node12" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="5,203,196,228"/>
+<area shape="rect" id="Node000001" title="Frees memory allocated inside the buffer." alt="" coords="700,104,828,130"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#ac4ff5a6ae685570f045448e76e518a0c" title="Equivalent of modbusBufferFree() \copydetail modbusBufferFree()" alt="" coords="488,55,633,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,102,616,84,617,78,694,97"/>
+<area shape="rect" id="Node000007" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="470,104,651,130"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="685,120,651,120,651,114,685,114"/>
+<area shape="rect" id="Node000009" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="468,153,652,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="694,137,617,155,616,150,692,131"/>
+<area shape="rect" id="Node000003" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="256,5,408,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,53,394,34,395,29,483,48"/>
+<area shape="rect" id="Node000005" href="$slave_8impl_8h.html#a70695c3b7355bc0a3e6d49c46a4eef1f" title="Frees memory allocated in the ModbusSlave struct." alt="" coords="260,55,404,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="472,70,404,70,404,65,472,65"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="32,5,169,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="240,21,170,21,170,16,240,16"/>
+<area shape="rect" id="Node000006" href="$classllm_1_1Slave.html#a46b8ac6f2b8dee5550d18bd7f1dd355d" title=" " alt="" coords="39,55,162,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="244,70,162,70,162,65,244,65"/>
+<area shape="rect" id="Node000008" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="252,104,412,130"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="454,120,412,120,412,114,454,114"/>
+<area shape="rect" id="Node000010" href="$classllm_1_1Slave.html#aadbd0a4dc7769b5c393d6dfe5a344b8a" title=" " alt="" coords="250,153,414,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="453,169,414,169,414,164,453,164"/>
+<area shape="rect" id="Node000011" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,203,420,228"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="483,186,395,205,394,199,482,180"/>
+<area shape="rect" id="Node000012" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="5,203,196,228"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="228,218,196,218,196,213,228,213"/>
 </map>

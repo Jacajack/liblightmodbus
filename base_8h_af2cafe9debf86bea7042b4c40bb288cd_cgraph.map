@@ -1,5 +1,7 @@
 <map id="modbusPackRTU" name="modbusPackRTU">
-<area shape="rect" id="node1" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="5,31,131,56"/>
-<area shape="rect" id="node2" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="179,5,274,31"/>
-<area shape="rect" id="node3" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="179,55,275,80"/>
+<area shape="rect" id="Node000001" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="5,31,130,56"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="178,5,273,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,31,163,25,163,31,131,36"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="178,55,273,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,50,163,55,162,61,130,56"/>
 </map>

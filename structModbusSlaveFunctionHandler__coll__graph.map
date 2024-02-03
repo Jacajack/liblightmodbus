@@ -1,4 +1,5 @@
 <map id="ModbusSlaveFunctionHandler" name="ModbusSlaveFunctionHandler">
-<area shape="rect" id="node1" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,93,201,119"/>
-<area shape="rect" id="node2" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." alt="" coords="45,5,162,31"/>
+<area shape="rect" id="Node000001" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,94,201,120"/>
+<area shape="rect" id="Node000002" href="$structModbusErrorInfo.html" title="Richer error represenation &#45; source and type of error." alt="" coords="45,5,161,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,47,106,94,100,94,100,47"/>
 </map>

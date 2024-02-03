@@ -1,8 +1,15 @@
 <map id="include/lightmodbus/debug.impl.h" name="include/lightmodbus/debug.impl.h">
-<area shape="rect" id="node1" title="Debug utilities (implementation)" alt="" coords="5,5,143,45"/>
-<area shape="rect" id="node2" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="41,93,107,119"/>
-<area shape="rect" id="node3" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="9,240,69,265"/>
-<area shape="rect" id="node5" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="77,167,140,192"/>
-<area shape="rect" id="node4" title=" " alt="" coords="41,313,105,339"/>
-<area shape="rect" id="node6" title=" " alt="" coords="145,240,213,265"/>
+<area shape="rect" id="Node000001" title="Debug utilities (implementation)" alt="" coords="5,5,142,46"/>
+<area shape="rect" id="Node000002" href="$debug_8h.html" title="Debug utilities (header)" alt="" coords="40,94,107,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,46,76,78,71,78,71,46"/>
+<area shape="rect" id="Node000003" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="11,241,70,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,121,49,227,44,225,68,119"/>
+<area shape="rect" id="Node000005" href="$slave_8h.html" title="Slave&#39;s types and basic functions (header)" alt="" coords="77,168,139,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="82,119,98,152,93,155,77,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="42,315,105,341"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="48,266,64,300,59,302,43,268"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="99,195,64,232,60,228,95,192"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="108,194,83,300,77,299,103,193"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="144,241,211,267"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="122,192,157,228,153,232,118,195"/>
 </map>

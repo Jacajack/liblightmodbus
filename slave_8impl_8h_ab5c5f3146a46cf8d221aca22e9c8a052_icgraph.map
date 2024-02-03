@@ -1,4 +1,5 @@
 <map id="modbusParseRequestPDU" name="modbusParseRequestPDU">
-<area shape="rect" id="node1" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="245,5,424,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,5,197,31"/>
+<area shape="rect" id="Node000001" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="245,5,422,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Slave.html#af8cc9d8d58bf7f632f3f3cf7e6b9c84b" title=" " alt="" coords="5,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,21,197,21,197,16,229,16"/>
 </map>

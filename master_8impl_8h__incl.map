@@ -1,8 +1,16 @@
 <map id="include/lightmodbus/master.impl.h" name="include/lightmodbus/master.impl.h">
-<area shape="rect" id="node1" title="Master&#39;s types and basic functions (implementation)" alt="" coords="29,5,166,45"/>
-<area shape="rect" id="node2" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" alt="" coords="19,167,91,192"/>
-<area shape="rect" id="node6" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="91,93,195,119"/>
-<area shape="rect" id="node3" title=" " alt="" coords="31,313,95,339"/>
-<area shape="rect" id="node4" title=" " alt="" coords="21,240,89,265"/>
-<area shape="rect" id="node5" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="113,240,173,265"/>
+<area shape="rect" id="Node000001" title="Master&#39;s types and basic functions (implementation)" alt="" coords="28,5,165,46"/>
+<area shape="rect" id="Node000002" href="$master_8h.html" title="Master&#39;s types and basic functions (header)" alt="" coords="18,168,89,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,64,153,59,152,88,46"/>
+<area shape="rect" id="Node000006" href="$master__func_8h.html" title="Master&#39;s functions for building requests and parsing responses (header)" alt="" coords="90,94,193,120"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="110,45,129,79,125,82,105,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="30,315,93,341"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="42,195,16,227,9,247,11,266,22,286,37,303,33,306,18,289,6,268,4,246,12,225,38,192"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="20,241,87,267"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="56,194,56,226,51,226,51,194"/>
+<area shape="rect" id="Node000005" href="$base_8h.html" title="Common types and functions (header)" alt="" coords="112,241,171,267"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="70,192,117,229,113,234,67,196"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="130,270,88,307,84,303,126,266"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="128,122,82,160,79,156,125,118"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="144,120,144,226,139,226,139,120"/>
 </map>

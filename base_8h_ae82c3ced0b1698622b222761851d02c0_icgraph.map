@@ -1,6 +1,9 @@
 <map id="modbusBufferModeTCP" name="modbusBufferModeTCP">
-<area shape="rect" id="node1" title="Prepares buffer to store a Modbus TCP message." alt="" coords="468,31,628,56"/>
-<area shape="rect" id="node2" href="$master_8impl_8h.html#afd1467296480779237ab090a8579efb5" title="Begins a TCP request." alt="" coords="245,5,419,31"/>
-<area shape="rect" id="node3" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="244,55,420,80"/>
-<area shape="rect" id="node4" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="5,55,196,80"/>
+<area shape="rect" id="Node000001" title="Prepares buffer to store a Modbus TCP message." alt="" coords="466,31,625,56"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#afd1467296480779237ab090a8579efb5" title="Begins a TCP request." alt="" coords="243,5,418,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,35,418,31,418,26,451,30"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="243,55,418,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,57,419,60,418,55,450,51"/>
+<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#a05169339916c3727c780c75157b399b9" title=" " alt="" coords="5,55,195,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,70,195,70,195,65,227,65"/>
 </map>

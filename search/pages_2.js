@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['error_20handling_0',['Error handling',['../error-handling.html',1,'']]],
-  ['examples_1',['Examples',['../examples.html',1,'']]]
+  ['building_20and_20integrating_20liblightmodbus_0',['Building and integrating liblightmodbus',['../building.html',1,'']]]
 ];

@@ -1,4 +1,5 @@
 <map id="modbusMasterInit" name="modbusMasterInit">
-<area shape="rect" id="node1" title="Initializes a ModbusMaster struct." alt="" coords="184,5,311,31"/>
-<area shape="rect" id="node2" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="5,5,136,31"/>
+<area shape="rect" id="Node000001" title="Initializes a ModbusMaster struct." alt="" coords="184,5,309,31"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Master.html#ac2e598f20d2c576e74590d461cf75f97" title=" " alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,21,136,21,136,16,168,16"/>
 </map>

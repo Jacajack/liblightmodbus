@@ -1,6 +1,9 @@
 <map id="modbusParseResponse1516" name="modbusParseResponse1516">
-<area shape="rect" id="node1" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="5,55,193,80"/>
-<area shape="rect" id="node2" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="255,5,394,31"/>
-<area shape="rect" id="node3" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="241,55,408,80"/>
-<area shape="rect" id="node4" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="277,104,372,129"/>
+<area shape="rect" id="Node000001" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="5,55,193,80"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="254,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,51,246,32,247,38,161,57"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="241,55,406,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,65,225,65,225,70,193,70"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="277,104,370,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,78,262,101,261,106,160,84"/>
 </map>

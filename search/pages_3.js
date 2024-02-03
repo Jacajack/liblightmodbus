@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['liblightmodbus_20_2d_20a_20lightweight_2c_20header_2donly_2c_20hardware_2dagnostic_20modbus_20rtu_2ftcp_20library_0',['liblightmodbus - a lightweight, header-only, hardware-agnostic Modbus RTU/TCP library',['../index.html',1,'']]]
+  ['code_20from_20v2_200_20to_20v3_200_0',['Porting code from v2.0 to v3.0',['../porting.html',1,'']]],
+  ['custom_20allocators_1',['Custom allocators',['../allocators.html',1,'']]]
 ];

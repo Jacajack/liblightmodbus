@@ -1,4 +1,5 @@
 <map id="modbusGetResponseError" name="modbusGetResponseError">
-<area shape="rect" id="node1" title="Returns response error from ModbusErrorInfo." alt="" coords="5,5,180,31"/>
-<area shape="rect" id="node2" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="228,5,375,31"/>
+<area shape="rect" id="Node000001" title="Returns response error from ModbusErrorInfo." alt="" coords="5,5,179,31"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="227,5,372,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,16,211,16,211,21,179,21"/>
 </map>
