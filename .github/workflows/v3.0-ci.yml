@@ -170,8 +170,10 @@ jobs:
       run: docker run --rm --privileged multiarch/qemu-user-static --reset -p yes
     - name: Run uname
       run: uname -a
+    - name: Build Docker container
+      run: docker build -t s390x/ubuntu .
     - name: Run tests on s390x/ubuntu
-      run: docker run --rm s390x/ubuntu bash -c "apt update && apt install -y gcc g++ make git && git clone https://github.com/jacajack/liblightmodbus.git && cd liblightmodbus && git checkout origin/master && make -C test && ./test/main-test"
+      run: docker run s390x/ubuntu bash -c "apt update && apt install -y gcc g++ make git && git clone https://github.com/jacajack/liblightmodbus.git && cd liblightmodbus && git checkout ${{ github.head_ref || github.ref_name }} && make -C test && ./test/main-test"
 
   docs-build:
     name: "Build & deploy docs"
