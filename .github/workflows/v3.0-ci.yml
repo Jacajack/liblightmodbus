@@ -172,7 +172,7 @@ jobs:
     - name: Run uname
       run: uname -a
     - name: Run tests on s390x
-      run: docker run multiarch/ubuntu-core:s390x-focal bash -c "apt update && apt install -y gcc g++ make git && git clone https://github.com/jacajack/liblightmodbus.git && cd liblightmodbus && git checkout ${{ github.head_ref || github.ref_name }} && make -C test && ./test/main-test"
+      run: docker run -it multiarch/ubuntu-core:s390x-focal bash -c "apt update && apt install -y gcc g++ make git && git clone https://github.com/jacajack/liblightmodbus.git && cd liblightmodbus && git checkout ${{ github.head_ref || github.ref_name }} && make -C test && ./test/main-test"
 
   docs-build:
     name: "Build & deploy docs"
