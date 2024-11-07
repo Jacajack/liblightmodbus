@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build basic test
       run: make -C test/basic
     - name: Run basic test
@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Configure
         run: cmake -S test/cmake -B test/cmake/build -DCMAKE_BUILD_TYPE=Release
       - name: Build
@@ -40,7 +40,7 @@ jobs:
       image: 'docker://lpodkalicki/avr-toolchain'
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: "Check toolchain version"
         run: |
           avr-gcc --version
@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Compile
         run: make -C test/cpp
 
@@ -68,7 +68,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build examples
       run: make -C examples
     - name: Run demo
@@ -92,7 +92,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build test suite
       run: make -C test main-test
     - name: Run test suite
@@ -104,7 +104,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build test suite (with AddressSan)
       run: make -C test addrsan-test
     - name: Run
@@ -116,7 +116,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build test suite (with UBSan)
       run: make -C test ubsan-test
     - name: Run
@@ -128,7 +128,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build test suite (with coverage testing)
       run: make -C test coverage-test
     - name: Run coverage test
@@ -149,7 +149,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
     - name: Build tests
       run: make -C test/compat
     - name: Generate random requests
@@ -178,7 +178,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout (with submodules)
-      uses: actions/checkout@v4
+      uses: actions/checkout@v2
       with:
         submodules: recursive
     - name: Run Doxygen
@@ -209,12 +209,12 @@ jobs:
         language: ['cpp']
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@v3
+        uses: github/codeql-action/init@v1
         with:
           languages: ${{ matrix.language }}
       - name: Build CodeQL test
         run: make -C test/codeql
       - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v3
+        uses: github/codeql-action/analyze@v1
