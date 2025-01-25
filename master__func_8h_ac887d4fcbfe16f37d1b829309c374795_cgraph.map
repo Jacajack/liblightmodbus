@@ -1,0 +1,13 @@
+<map id="ModbusErrorInfomodbusBuildRequest16" name="ModbusErrorInfomodbusBuildRequest16">
+<area shape="rect" id="Node000001" title="Write multiple holding registers." alt="" coords="5,47,197,88"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="263,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,46,263,32,264,37,198,51"/>
+<area shape="rect" id="Node000003" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="245,55,447,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,65,229,65,229,70,197,70"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="298,104,394,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="198,84,283,102,282,107,196,89"/>
+<area shape="rect" id="Node000004" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="506,31,682,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="447,55,490,51,490,56,448,60"/>
+<area shape="rect" id="Node000005" href="$master_8h.html#a39dfa809ec99fbff3a4acef1bc543b9f" title="Retreieves the custom context pointer." alt="" coords="495,80,692,106"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="448,75,480,79,479,84,447,81"/>
+</map>

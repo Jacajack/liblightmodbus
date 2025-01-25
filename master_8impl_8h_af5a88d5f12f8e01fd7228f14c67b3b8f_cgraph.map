@@ -1,0 +1,9 @@
+<map id="ModbusErrorInfomodbusParseResponseRTU" name="ModbusErrorInfomodbusParseResponseRTU">
+<area shape="rect" id="Node000001" title="Parses a Modbus RTU slave response." alt="" coords="5,23,202,64"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="250,31,389,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,41,234,41,234,46,202,46"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="437,5,531,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,30,421,25,422,30,390,35"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="438,55,530,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,51,423,56,422,61,389,56"/>
+</map>

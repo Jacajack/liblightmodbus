@@ -1,0 +1,5 @@
+<map id="ModbusErrorInfomodbusParseResponse0506" name="ModbusErrorInfomodbusParseResponse0506">
+<area shape="rect" id="Node000001" title="Parses response to requests 05 and 06." alt="" coords="5,5,202,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="250,13,343,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,23,234,23,234,28,202,28"/>
+</map>

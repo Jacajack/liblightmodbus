@@ -1,0 +1,5 @@
+<map id="ModbusErrorInfomodbusBeginRequestPDU" name="ModbusErrorInfomodbusBeginRequestPDU">
+<area shape="rect" id="Node000001" title="Begins a PDU&#45;only request." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a6574e0a670ec60b09a3f2e8bbd6ad827" title="Prepares buffer to only store a Modbus PDU." alt="" coords="249,13,410,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+</map>

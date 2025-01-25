@@ -1,37 +1,25 @@
 <map id="modbusMasterGetUserPointer" name="modbusMasterGetUserPointer">
-<area shape="rect" id="Node000001" title="Retreieves the custom context pointer." alt="" coords="710,327,908,352"/>
-<area shape="rect" id="Node000002" href="$classllm_1_1Master.html#abd27128b7899148b8aa8531587e51ddc" title=" " alt="" coords="473,252,650,278"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="757,323,662,291,622,281,623,276,663,286,759,318"/>
-<area shape="rect" id="Node000003" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="460,301,662,327"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="694,330,662,327,663,322,695,325"/>
-<area shape="rect" id="Node000015" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="486,364,637,390"/>
-<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="705,358,638,368,637,363,704,353"/>
-<area shape="rect" id="Node000017" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="471,425,652,451"/>
-<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="766,361,663,405,603,427,601,422,661,400,764,356"/>
-<area shape="rect" id="Node000004" href="$master__func_8impl_8h.html#ad3a6d4576d762da3eb0bd73aa5bb24fe" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="212,104,412,130"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,296,458,292,438,268,431,244,425,218,410,192,373,158,336,132,339,128,377,153,414,189,430,217,436,242,443,266,462,288,466,291"/>
-<area shape="rect" id="Node000009" href="$master__func_8impl_8h.html#a5309a3003ea2d248e51193e75ab30044" title="Write single coil/holding register." alt="" coords="226,203,398,228"/>
-<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="468,297,459,292,443,280,434,266,425,254,411,242,387,231,389,226,413,237,429,250,438,263,447,276,461,288,470,293"/>
-<area shape="rect" id="Node000012" href="$master__func_8impl_8h.html#ae9842e659ccd8942905e685923de8916" title="Write multiple coils." alt="" coords="233,252,391,278"/>
-<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="477,300,380,281,381,276,478,295"/>
-<area shape="rect" id="Node000013" href="$master__func_8impl_8h.html#aca022c438a427d8f4b03db4427c2b344" title="Write multiple holding registers." alt="" coords="233,301,391,327"/>
-<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="445,317,391,317,391,312,445,312"/>
-<area shape="rect" id="Node000014" href="$master__func_8impl_8h.html#a6f2c5d59dee73c80ad54e53cca38aeec" title="Mask write register request." alt="" coords="233,351,391,376"/>
-<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="478,333,381,353,380,347,477,328"/>
-<area shape="rect" id="Node000005" href="$master__func_8h.html#aadb2b7e2d3ee4fbde22cdf076713d75e" title="Read multiple coils &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,5,164,31"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,98,221,71,163,45,133,34,135,29,165,40,224,67,275,94"/>
-<area shape="rect" id="Node000006" href="$master__func_8h.html#a2a6452a8200d77483254bef08ee2cf8c" title="Read multiple discrete inputs &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,55,164,80"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="234,103,147,84,148,78,235,97"/>
-<area shape="rect" id="Node000007" href="$master__func_8h.html#a1c7ed51c58b1ef42ee176833c7fd0515" title="Read multiple holding registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,104,164,130"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="196,120,164,120,164,114,196,114"/>
-<area shape="rect" id="Node000008" href="$master__func_8h.html#a22bf4541196b3e88c0a86861d334e3b1" title="Read multiple input registers &#45; a wrapper for modbusBuildRequest01020304()" alt="" coords="5,153,164,179"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="235,136,148,155,147,150,234,131"/>
-<area shape="rect" id="Node000010" href="$master__func_8h.html#a7151355c8c34af355fd779f88a64e125" title="Write single coil &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,203,164,228"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="210,218,164,218,164,213,210,213"/>
-<area shape="rect" id="Node000011" href="$master__func_8h.html#a56779853bdfd2bb75601be746c20eb09" title="Write single holding register &#45; a wrapper for modbusBuildRequest0506()" alt="" coords="5,252,164,278"/>
-<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="235,235,148,254,147,249,234,230"/>
-<area shape="rect" id="Node000016" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="243,400,381,426"/>
-<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="470,393,381,406,380,400,470,387"/>
-<area shape="rect" id="Node000018" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="232,449,392,475"/>
-<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="455,451,393,457,392,452,455,446"/>
+<area shape="rect" id="Node000001" title="Retreieves the custom context pointer." alt="" coords="495,240,692,265"/>
+<area shape="rect" id="Node000002" href="$classllm_1_1Master.html#abd27128b7899148b8aa8531587e51ddc" title=" " alt="" coords="257,160,434,185"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,236,446,199,408,188,409,183,448,194,548,231"/>
+<area shape="rect" id="Node000003" href="$master_8h.html#a004b932b2b69ad0c6649c26d974146b2" title="Allocates memory for the request frame." alt="" coords="245,209,447,234"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="479,241,447,237,448,232,480,236"/>
+<area shape="rect" id="Node000009" href="$master_8impl_8h.html#a5fe38fae0f89de04fa616d105f660d25" title="Deinitializes a ModbusMaster struct." alt="" coords="270,301,422,326"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="525,272,401,303,400,298,523,267"/>
+<area shape="rect" id="Node000011" href="$master_8h.html#a040a82085ce05ff95c53d3dca4c3acfd" title="Frees memory allocated for master&#39;s request frame." alt="" coords="255,350,436,376"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="563,277,511,310,448,341,416,352,414,347,446,337,508,305,560,272"/>
+<area shape="rect" id="Node000004" href="$master__func_8impl_8h.html#a2a17495474de4ed91efe8df2bf11d16f" title="Read mutiple coils/discrete inputs/holding registers/input registers." alt="" coords="5,5,197,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,202,243,200,228,182,221,165,217,129,214,95,208,78,195,61,179,49,182,44,199,57,212,75,219,93,222,129,226,163,233,180,247,196,249,198"/>
+<area shape="rect" id="Node000005" href="$master__func_8impl_8h.html#a215655635f299f22ccd8eb3d79774357" title="Write single coil/holding register." alt="" coords="5,71,197,111"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="249,204,243,200,226,182,218,163,210,144,195,126,175,114,178,110,198,122,215,141,223,161,230,179,246,196,252,199"/>
+<area shape="rect" id="Node000006" href="$master__func_8impl_8h.html#a9ca285925fdd221a3f59d591e7c236b9" title="Write multiple coils." alt="" coords="5,136,197,177"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="272,207,244,200,171,180,173,175,245,195,273,202"/>
+<area shape="rect" id="Node000007" href="$master__func_8impl_8h.html#ac887d4fcbfe16f37d1b829309c374795" title="Write multiple holding registers." alt="" coords="5,201,197,242"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="229,224,197,224,197,219,229,219"/>
+<area shape="rect" id="Node000008" href="$master__func_8impl_8h.html#a1f876a7195e7ae76b89ff7aace454590" title="Mask write register request." alt="" coords="5,267,197,307"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="281,242,181,269,179,263,280,236"/>
+<area shape="rect" id="Node000010" href="$classllm_1_1Master.html#adae54d760d1eb2f0babcaff59325376d" title=" " alt="" coords="32,332,170,357"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="255,328,170,338,170,333,255,322"/>
+<area shape="rect" id="Node000012" href="$classllm_1_1Master.html#a6c3883d0f98a5b4255a02f46f33c2423" title=" " alt="" coords="21,381,181,406"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="240,379,182,386,181,381,240,374"/>
 </map>

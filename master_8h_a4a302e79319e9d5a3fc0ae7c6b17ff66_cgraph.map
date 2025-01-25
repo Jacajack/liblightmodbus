@@ -1,0 +1,7 @@
+<map id="ModbusErrorInfomodbusEndRequestTCP" name="ModbusErrorInfomodbusEndRequestTCP">
+<area shape="rect" id="Node000001" title="Finalizes a Modbus TCP request." alt="" coords="5,5,190,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a39dcd3aad118a779b7e1775fea3e5d77" title="Sets up the MBAP header in a Modbus TCP frame." alt="" coords="238,13,361,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,23,222,23,222,28,190,28"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="409,13,505,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,23,394,23,394,28,362,28"/>
+</map>

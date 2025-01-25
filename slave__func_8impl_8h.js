@@ -1,7 +1,7 @@
 var slave__func_8impl_8h =
 [
-    [ "modbusParseRequest01020304", "slave__func_8impl_8h.html#aaff57f2a5c6a8e6c77d36c5dc7e48cfa", null ],
-    [ "modbusParseRequest0506", "slave__func_8impl_8h.html#a236881fe30a95d4cc9b031a9e24ae2a8", null ],
-    [ "modbusParseRequest1516", "slave__func_8impl_8h.html#a0cb2a7bf59d4014088e1ce1c61523071", null ],
-    [ "modbusParseRequest22", "slave__func_8impl_8h.html#a814f041d9acfa578998b8ce8fe53815c", null ]
+    [ "ModbusErrorInfomodbusParseRequest01020304", "slave__func_8impl_8h.html#a648853599bb5c890d3dc98e12be07b0c", null ],
+    [ "ModbusErrorInfomodbusParseRequest0506", "slave__func_8impl_8h.html#ae620115b63da2d0c40e552889be5d3b3", null ],
+    [ "ModbusErrorInfomodbusParseRequest1516", "slave__func_8impl_8h.html#a4ee99d7a0fea397f6bf53fafbdc139e1", null ],
+    [ "ModbusErrorInfomodbusParseRequest22", "slave__func_8impl_8h.html#a446bf506f887f17f17c491d6d863c446", null ]
 ];

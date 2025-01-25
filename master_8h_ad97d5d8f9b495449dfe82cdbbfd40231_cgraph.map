@@ -1,0 +1,5 @@
+<map id="ModbusErrorInfomodbusBeginRequestRTU" name="ModbusErrorInfomodbusBeginRequestRTU">
+<area shape="rect" id="Node000001" title="Begins a RTU request." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ad274c6156d4373b79930b577e373692a" title="Prepares buffer to store a Modbus RTU message." alt="" coords="249,13,409,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+</map>

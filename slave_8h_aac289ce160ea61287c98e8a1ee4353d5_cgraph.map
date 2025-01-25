@@ -1,6 +1,6 @@
 <map id="modbusSlaveFreeResponse" name="modbusSlaveFreeResponse">
 <area shape="rect" id="Node000001" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="5,31,190,56"/>
-<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="269,5,397,31"/>
+<area shape="rect" id="Node000002" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="269,5,396,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,31,253,24,254,29,190,36"/>
 <area shape="rect" id="Node000004" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="238,55,428,80"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,50,222,54,222,59,190,56"/>

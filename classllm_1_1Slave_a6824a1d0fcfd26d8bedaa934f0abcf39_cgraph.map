@@ -1,19 +1,15 @@
 <map id="llm::Slave::Slave" name="llm::Slave::Slave">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,122,82"/>
-<area shape="rect" id="Node000002" href="$slave_8impl_8h.html#a2c30507da9547125c17f62e0e18d9194" title="Initializes slave device." alt="" coords="173,19,292,44"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,53,157,45,158,51,123,59"/>
-<area shape="rect" id="Node000004" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="170,80,295,106"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,74,154,79,154,84,122,80"/>
-<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a4ff22e8be90cb65fb157eeadfe672389" title="Initializes a buffer for use." alt="" coords="370,5,489,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,25,355,21,355,26,292,30"/>
-<area shape="rect" id="Node000005" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="350,55,510,80"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="295,82,334,77,334,82,296,87"/>
-<area shape="rect" id="Node000007" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="348,104,511,130"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="296,98,333,102,332,108,295,103"/>
-<area shape="rect" id="Node000008" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="343,153,516,179"/>
-<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="261,104,344,140,362,146,360,151,342,145,259,109"/>
-<area shape="rect" id="Node000006" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="564,104,710,130"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="488,78,566,97,565,102,486,84"/>
-<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="512,114,549,114,549,120,512,120"/>
-<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="486,150,565,131,566,136,488,155"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,122,80"/>
+<area shape="rect" id="Node000002" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="170,55,295,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,65,154,65,154,70,122,70"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="350,5,510,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,51,360,33,361,38,288,57"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="348,55,511,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="295,65,332,65,332,70,295,70"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="343,104,516,130"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="288,78,361,97,360,102,286,84"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="564,55,710,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,29,566,48,565,53,486,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="512,65,549,65,549,70,512,70"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="486,101,565,82,566,87,488,106"/>
 </map>

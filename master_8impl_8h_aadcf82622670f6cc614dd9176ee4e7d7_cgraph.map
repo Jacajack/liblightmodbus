@@ -1,0 +1,5 @@
+<map id="ModbusErrorInfomodbusBeginRequestTCP" name="ModbusErrorInfomodbusBeginRequestTCP">
+<area shape="rect" id="Node000001" title="Begins a TCP request." alt="" coords="5,5,201,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ae82c3ced0b1698622b222761851d02c0" title="Prepares buffer to store a Modbus TCP message." alt="" coords="249,13,408,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,23,233,23,233,28,201,28"/>
+</map>

@@ -1,5 +1,5 @@
 <map id="ModbusSlave" name="ModbusSlave">
-<area shape="rect" id="Node000001" title="Slave device status." alt="" coords="138,185,239,211"/>
+<area shape="rect" id="Node000001" title="Slave device status." alt="" coords="138,185,238,210"/>
 <area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="256,189,265,198,257,206,239,209,239,204,255,201,260,198,252,193"/>
 <area shape="rect" id="Node000002" href="$structModbusSlaveFunctionHandler.html" title="Associates Modbus function ID with a pointer to a parsing function." alt="" coords="5,94,201,120"/>
 <area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="127,129,179,183,175,186,123,133"/>

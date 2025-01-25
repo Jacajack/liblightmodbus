@@ -1,0 +1,9 @@
+<map id="ModbusErrorInfomodbusBuildExceptionPDU" name="ModbusErrorInfomodbusBuildExceptionPDU">
+<area shape="rect" id="Node000001" title="Builds an exception PDU." alt="" coords="5,23,197,64"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="245,31,340,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,41,229,41,229,46,197,46"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="394,5,539,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,34,378,28,378,34,341,39"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="388,55,544,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="341,47,373,52,372,57,340,53"/>
+</map>

@@ -1,15 +1,11 @@
 <map id="modbusWLE" name="modbusWLE">
-<area shape="rect" id="Node000001" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="646,55,742,80"/>
-<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="474,55,598,80"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,70,599,70,599,65,631,65"/>
-<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a1da09df8858b91c61fe02c25783c2946" title="Builds a Modbus RTU exception." alt="" coords="247,5,426,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,53,391,34,392,29,467,48"/>
-<area shape="rect" id="Node000005" href="$master_8impl_8h.html#a4623d6d41d5e4a148e399fe19051183c" title="Finalizes a Modbus RTU request." alt="" coords="254,55,419,80"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="459,70,419,70,419,65,459,65"/>
-<area shape="rect" id="Node000006" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="248,104,425,130"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="467,87,392,106,391,101,465,82"/>
-<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#a10e79600053c725e639225264d966e63" title=" " alt="" coords="5,5,199,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,21,199,21,199,16,231,16"/>
-<area shape="rect" id="Node000007" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="7,104,197,130"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="233,120,198,120,198,114,233,114"/>
+<area shape="rect" id="Node000001" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="422,78,517,104"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="250,78,374,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,94,374,94,374,88,406,88"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a90b11d29191ccfd6393ea9be9a7e65e5" title="Builds a Modbus RTU exception." alt="" coords="8,5,199,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,76,170,49,172,44,255,70"/>
+<area shape="rect" id="Node000004" href="$master_8impl_8h.html#a63e771eba2a9fe1a62a7cbb168a6db90" title="Finalizes a Modbus RTU request." alt="" coords="11,71,196,111"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="234,94,196,94,196,88,234,88"/>
+<area shape="rect" id="Node000005" href="$slave_8impl_8h.html#afa8be870ae62f17ac8bc258714c2eb99" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,136,202,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="255,112,172,138,170,133,253,106"/>
 </map>

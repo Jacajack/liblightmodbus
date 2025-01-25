@@ -1,5 +1,5 @@
 <map id="ModbusMaster" name="ModbusMaster">
-<area shape="rect" id="Node000001" title="Master device status." alt="" coords="140,185,247,211"/>
+<area shape="rect" id="Node000001" title="Master device status." alt="" coords="140,185,247,210"/>
 <area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="264,189,273,198,265,206,248,209,247,204,263,201,268,198,261,193"/>
 <area shape="rect" id="Node000002" href="$structModbusMasterFunctionHandler.html" title="Associates Modbus function ID with a pointer to a response parsing function." alt="" coords="5,94,208,120"/>
 <area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="131,129,184,183,180,187,127,133"/>

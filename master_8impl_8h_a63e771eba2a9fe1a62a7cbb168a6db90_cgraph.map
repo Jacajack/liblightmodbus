@@ -1,0 +1,9 @@
+<map id="ModbusErrorInfomodbusEndRequestRTU" name="ModbusErrorInfomodbusEndRequestRTU">
+<area shape="rect" id="Node000001" title="Finalizes a Modbus RTU request." alt="" coords="5,23,190,64"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="238,31,362,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,41,222,41,222,46,190,46"/>
+<area shape="rect" id="Node000003" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="410,5,505,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,31,395,25,396,31,363,36"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="410,55,505,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="363,50,395,55,394,61,362,56"/>
+</map>

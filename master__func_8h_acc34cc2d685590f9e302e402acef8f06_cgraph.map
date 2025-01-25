@@ -1,0 +1,9 @@
+<map id="ModbusErrorInfomodbusParseResponse1516" name="ModbusErrorInfomodbusParseResponse1516">
+<area shape="rect" id="Node000001" title="Parses response to requests 15 and 16 (write mutliple regsiters/coils)" alt="" coords="5,47,202,88"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="263,5,402,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,44,254,32,255,37,201,49"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="250,55,415,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,65,234,65,234,70,202,70"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="286,104,379,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,86,271,101,270,106,200,91"/>
+</map>

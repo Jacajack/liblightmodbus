@@ -1,0 +1,7 @@
+<map id="ModbusErrorInfomodbusParseResponseTCP" name="ModbusErrorInfomodbusParseResponseTCP">
+<area shape="rect" id="Node000001" title="Parses a Modbus TCP slave response." alt="" coords="5,5,202,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." alt="" coords="250,13,388,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,23,234,23,234,28,202,28"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="436,13,529,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,23,421,23,421,28,389,28"/>
+</map>

@@ -1,43 +1,20 @@
 <map id="llm::Slave::parseRequestTCP" name="llm::Slave::parseRequestTCP">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,195,228"/>
-<area shape="rect" id="Node000002" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="505,203,600,228"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,213,490,213,490,218,195,218"/>
-<area shape="rect" id="Node000005" href="$slave_8impl_8h.html#a5ad3fe86aa14f8982d7c459c68cd8b3e" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="243,128,418,154"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,200,273,156,274,162,143,205"/>
-<area shape="rect" id="Node000016" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="268,277,393,303"/>
-<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="143,226,274,269,273,275,141,231"/>
-<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="693,276,838,302"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,225,640,237,719,267,718,272,638,242,600,230"/>
-<area shape="rect" id="Node000004" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="687,203,844,228"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="601,213,672,213,672,218,601,218"/>
-<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="365,152,467,189,491,196,489,202,465,194,364,157"/>
-<area shape="rect" id="Node000006" href="$base_8h.html#ae82c3ced0b1698622b222761851d02c0" title="Prepares buffer to store a Modbus TCP message." alt="" coords="473,55,632,80"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="365,125,465,89,486,83,488,88,467,94,367,130"/>
-<area shape="rect" id="Node000007" href="$base_8h.html#a39dcd3aad118a779b7e1775fea3e5d77" title="Sets up the MBAP header in a Modbus TCP frame." alt="" coords="491,5,614,31"/>
-<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="345,125,395,83,429,60,465,40,478,34,480,39,467,45,432,65,399,88,348,129"/>
-<area shape="rect" id="Node000009" href="$slave_8impl_8h.html#aff0a9164a0e37aa619232ae86e3ff97a" title="Parses provided PDU and generates response honorinng pduOffset and padding set in ModbusSlave during ..." alt="" coords="478,104,627,130"/>
-<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="418,129,462,124,463,129,419,134"/>
-<area shape="rect" id="Node000014" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." alt="" coords="484,153,622,179"/>
-<area shape="poly" id="edge14_Node000005_Node000014" title=" " alt="" coords="419,148,468,154,468,159,418,153"/>
-<area shape="rect" id="Node000008" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="717,5,814,31"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="615,16,702,16,702,21,615,21"/>
-<area shape="rect" id="Node000010" href="$slave_8impl_8h.html#a58243ce1e1adaffd0a3260edc2d03603" title="Builds an exception response frame." alt="" coords="689,104,842,130"/>
-<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="628,114,674,114,674,120,628,120"/>
-<area shape="rect" id="Node000011" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="892,104,1097,130"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="842,114,876,114,876,120,842,120"/>
-<area shape="rect" id="Node000012" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="1152,79,1328,104"/>
-<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1097,104,1136,100,1137,105,1098,109"/>
-<area shape="rect" id="Node000013" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="1145,128,1335,154"/>
-<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1098,124,1130,127,1129,133,1097,130"/>
-<area shape="rect" id="Node000015" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="719,153,812,179"/>
-<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="622,164,704,164,704,169,622,169"/>
-<area shape="rect" id="Node000017" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="473,301,633,327"/>
-<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="394,294,457,301,457,307,393,300"/>
-<area shape="rect" id="Node000018" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="471,351,634,376"/>
-<area shape="poly" id="edge19_Node000016_Node000018" title=" " alt="" coords="367,301,467,337,488,343,486,348,465,342,365,306"/>
-<area shape="rect" id="Node000019" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="466,252,639,278"/>
-<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="393,280,450,274,451,279,394,286"/>
-<area shape="poly" id="edge18_Node000017_Node000003" title=" " alt="" coords="633,302,677,297,678,302,634,307"/>
-<area shape="poly" id="edge20_Node000018_Node000003" title=" " alt="" coords="604,348,638,337,719,306,721,311,640,342,606,353"/>
-<area shape="poly" id="edge22_Node000019_Node000003" title=" " alt="" coords="640,272,678,276,677,282,639,277"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,82,195,108"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="258,33,353,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,79,242,58,243,63,157,84"/>
+<area shape="rect" id="Node000005" href="$namespacellm.html#a57bd253b3362a63c62c8c5b5b0391252" title="Throws an exception based on ModbusErrorInfo." alt="" coords="243,106,368,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,103,227,107,227,113,195,109"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="637,108,783,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,30,394,16,456,6,524,4,558,9,590,18,620,33,648,52,690,93,687,97,644,56,618,37,588,23,557,14,524,10,457,11,395,21,345,35"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="424,33,581,59"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="353,43,409,43,409,48,353,48"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a84765449265aa5a31877b749f04cb568" title="Returns general error from ModbusErrorInfo." alt="" coords="422,82,583,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="368,109,407,104,407,109,369,114"/>
+<area shape="rect" id="Node000007" href="$base_8h.html#a5c6f792a259423b2df55d8d49e91fd06" title="Returns request error from ModbusErrorInfo." alt="" coords="421,132,584,157"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="369,124,406,129,405,135,368,130"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#acbf9b7e6b679be88ce4e10ffb617d3e9" title="Returns response error from ModbusErrorInfo." alt="" coords="416,181,589,207"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="334,130,417,167,435,173,433,178,415,172,332,135"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="583,102,622,107,622,112,583,107"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="585,132,622,128,622,133,585,138"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="555,178,588,167,664,137,666,142,590,172,557,183"/>
 </map>

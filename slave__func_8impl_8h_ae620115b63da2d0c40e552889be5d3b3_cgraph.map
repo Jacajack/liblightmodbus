@@ -1,0 +1,13 @@
+<map id="ModbusErrorInfomodbusParseRequest0506" name="ModbusErrorInfomodbusParseRequest0506">
+<area shape="rect" id="Node000001" title="Handles requests 05 and 06 (Write Single XX) and generates response." alt="" coords="5,47,202,88"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="306,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,45,290,28,291,33,203,51"/>
+<area shape="rect" id="Node000003" href="$slave_8h.html#ad1165bb6d12af1db502a05df5da55aed" title="Allocates memory for slave&#39;s response frame." alt="" coords="250,55,455,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,65,234,65,234,70,202,70"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="304,104,400,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,84,289,102,288,107,202,90"/>
+<area shape="rect" id="Node000004" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="510,31,686,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,55,494,51,495,56,456,60"/>
+<area shape="rect" id="Node000005" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="503,80,693,106"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="456,75,488,79,487,84,455,81"/>
+</map>

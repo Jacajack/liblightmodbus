@@ -1,0 +1,30 @@
+<map id="ModbusErrorInfomodbusParseRequestRTU" name="ModbusErrorInfomodbusParseRequestRTU">
+<area shape="rect" id="Node000001" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,122,202,162"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ad274c6156d4373b79930b577e373692a" title="Prepares buffer to store a Modbus RTU message." alt="" coords="262,19,422,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,119,185,86,249,53,265,47,267,52,251,58,188,90,135,124"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="294,68,390,94"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,119,278,94,280,99,186,124"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#af2cafe9debf86bea7042b4c40bb288cd" title="Sets up address and CRC in a Modbus RTU frame." alt="" coords="280,203,404,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,160,284,195,282,200,171,166"/>
+<area shape="rect" id="Node000009" href="$slave_8h.html#aac289ce160ea61287c98e8a1ee4353d5" title="Frees memory allocated for slave&#39;s response frame." alt="" coords="250,129,434,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="202,140,234,140,234,145,202,145"/>
+<area shape="rect" id="Node000013" href="$base_8h.html#a4dba88e9baf690b8dafa0fad81eb7d07" title="Unpacks data from a Modbus RTU frame and optionally checks CRC." alt="" coords="272,252,412,278"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="131,161,184,200,251,238,265,244,263,249,248,243,181,205,128,165"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="504,55,650,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,76,489,70,489,75,390,81"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="499,5,655,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="389,66,433,54,481,40,507,33,508,38,483,45,435,59,391,71"/>
+<area shape="rect" id="Node000007" href="$base_8impl_8h.html#a11346a546b84663cd92cb30f4ffd1393" title="Calculates 16&#45;bit Modbus CRC of provided data." alt="" coords="530,252,624,278"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="405,226,515,249,514,254,404,231"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#af718da7da634f311c2ae8db6be3d9027" title="Safely writes a little&#45;endian 16&#45;bit word to provided pointer." alt="" coords="530,203,625,228"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="404,213,514,213,514,218,404,218"/>
+<area shape="rect" id="Node000010" href="$base_8impl_8h.html#a00605b5ebcf90f8035bfaa7a7c039776" title="Frees memory allocated inside the buffer." alt="" coords="514,153,641,179"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="435,149,498,155,498,161,434,154"/>
+<area shape="rect" id="Node000012" href="$slave_8h.html#a6517cff5567f0f07444d140edc7dfafd" title="Retreieves the custom context pointer." alt="" coords="482,104,672,130"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="434,130,466,126,467,131,435,135"/>
+<area shape="rect" id="Node000011" href="$base_8impl_8h.html#a54f7d1db7f58ffd329b1955ad1a66f37" title="Allocates memory to hold Modbus ADU." alt="" coords="720,153,897,179"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="641,164,705,164,705,169,641,169"/>
+<area shape="poly" id="edge13_Node000013_Node000007" title=" " alt="" coords="412,262,514,262,514,268,412,268"/>
+<area shape="rect" id="Node000014" href="$base_8h.html#a0fc3f293c746d39a93e4c1158f792404" title="Safely reads a little&#45;endian 16&#45;bit word from provided pointer." alt="" coords="531,301,623,327"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="407,276,516,299,515,304,406,281"/>
+</map>

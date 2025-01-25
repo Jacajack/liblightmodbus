@@ -1,0 +1,11 @@
+<map id="ModbusErrorInfomodbusParseResponse01020304" name="ModbusErrorInfomodbusParseResponse01020304">
+<area shape="rect" id="Node000001" title="Parses response to requests 01, 02, 03 and 04." alt="" coords="5,72,202,113"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#af23a50b36bef9c09ac82214a52ff4d58" title="Returns number of bytes necessary to hold given number of bits." alt="" coords="263,5,402,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,69,249,40,269,33,270,39,250,45,164,74"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a61619958551d902c14ab6e51fb842ea0" title="Checks whether provided address range causes an uint16_t overflow." alt="" coords="250,55,415,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,79,234,76,235,81,202,85"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#aff2248343762719cdacf818e4dae3709" title="Reads n&#45;th bit from an array." alt="" coords="268,104,397,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,100,252,106,252,111,202,106"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="286,153,379,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,111,250,140,272,146,270,151,249,145,164,116"/>
+</map>

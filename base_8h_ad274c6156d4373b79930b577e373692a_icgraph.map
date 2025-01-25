@@ -1,9 +1,7 @@
 <map id="modbusBufferModeRTU" name="modbusBufferModeRTU">
-<area shape="rect" id="Node000001" title="Prepares buffer to store a Modbus RTU message." alt="" coords="468,31,628,56"/>
-<area shape="rect" id="Node000002" href="$master_8impl_8h.html#ade3cfa7c2201895b2f768cca5d424ee5" title="Begins a RTU request." alt="" coords="244,5,420,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,35,420,31,420,26,453,30"/>
-<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#a6a1e63faa64b7ca4b91d1ce7988be850" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="244,55,420,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,57,421,60,420,55,453,51"/>
-<area shape="rect" id="Node000004" href="$classllm_1_1Slave.html#a001591b9a38b69cf29adc853872a09fe" title=" " alt="" coords="5,55,196,80"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,70,196,70,196,65,228,65"/>
+<area shape="rect" id="Node000001" title="Prepares buffer to store a Modbus RTU message." alt="" coords="250,46,410,72"/>
+<area shape="rect" id="Node000002" href="$master_8impl_8h.html#ad97d5d8f9b495449dfe82cdbbfd40231" title="Begins a RTU request." alt="" coords="6,5,201,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,48,201,43,202,37,234,42"/>
+<area shape="rect" id="Node000003" href="$slave_8impl_8h.html#afa8be870ae62f17ac8bc258714c2eb99" title="Parses provided Modbus RTU request frame and generates a Modbus RTU response." alt="" coords="5,71,202,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,75,202,80,202,74,233,70"/>
 </map>

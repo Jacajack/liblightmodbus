@@ -1,0 +1,5 @@
+<map id="ModbusErrorInfomodbusParseRequestPDU" name="ModbusErrorInfomodbusParseRequestPDU">
+<area shape="rect" id="Node000001" title="Parses provided PDU and generates PDU for the response frame." alt="" coords="5,5,202,46"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#a6574e0a670ec60b09a3f2e8bbd6ad827" title="Prepares buffer to only store a Modbus PDU." alt="" coords="250,13,411,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,23,234,23,234,28,202,28"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="ModbusErrorInfomodbusParseRequestTCP" name="ModbusErrorInfomodbusParseRequestTCP">
+<area shape="rect" id="Node000001" title="Parses provided Modbus TCP request frame and generates a Modbus TCP response." alt="" coords="5,72,202,113"/>
+<area shape="rect" id="Node000002" href="$base_8h.html#ae82c3ced0b1698622b222761851d02c0" title="Prepares buffer to store a Modbus TCP message." alt="" coords="250,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,69,249,40,268,33,270,39,251,45,164,74"/>
+<area shape="rect" id="Node000003" href="$base_8h.html#a64880e7075f445881485396f3aa869c5" title="Checks if ModbusErrorInfo contains an error." alt="" coords="282,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,79,266,72,267,77,202,84"/>
+<area shape="rect" id="Node000006" href="$base_8h.html#a39dcd3aad118a779b7e1775fea3e5d77" title="Sets up the MBAP header in a Modbus TCP frame." alt="" coords="268,104,391,130"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="202,101,252,106,252,111,202,106"/>
+<area shape="rect" id="Node000008" href="$base_8h.html#a616e5bdb5ebcd57b1604421f6ca22bc9" title="Unpacks data from a Modbus TCP frame." alt="" coords="260,153,398,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="166,111,250,140,270,146,268,151,249,145,164,116"/>
+<area shape="rect" id="Node000004" href="$base_8h.html#a29d2a7853b328113e4fcddae85fd3ce5" title="Returns ModbusError contained in ModbusErrorInfo." alt="" coords="462,5,608,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="377,54,463,33,464,38,378,59"/>
+<area shape="rect" id="Node000005" href="$base_8h.html#a9ee4c2e633c7a42f88acc09b95f8171e" title="Returns uint8_t describing error source of ModbusErrorInfo." alt="" coords="457,55,613,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="377,65,441,65,441,70,377,70"/>
+<area shape="rect" id="Node000007" href="$base_8h.html#a73b9f793bbe67a1968cc8c53a22d4c4b" title="Safely writes a big&#45;endian 16&#45;bit word to provided pointer." alt="" coords="487,104,583,130"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="392,114,471,114,471,120,392,120"/>
+<area shape="rect" id="Node000009" href="$base_8h.html#ace96da9afdf1e1796a6e2d7ac1f6c81a" title="Safely reads a big&#45;endian 16&#45;bit word from provided pointer." alt="" coords="488,153,582,179"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="399,164,473,164,473,169,399,169"/>
+</map>

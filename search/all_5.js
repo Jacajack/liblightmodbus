@@ -7,7 +7,8 @@ var searchData=
   ['estr_4',['ESTR',['../debug_8impl_8h.html#a5042104432b84aa9aa0db601e767df52',1,'debug.impl.h']]],
   ['example_5',['Example',['../slave.html#slave-register-callback-example',1,'']]],
   ['examples_6',['Examples',['../examples.html',1,'']]],
-  ['exception_20callback_7',['exception callback',['../master.html#master-exception-callback',1,'Exception callback'],['../slave.html#slave-exception-callback',1,'Slave exception callback']]],
-  ['exceptioncallback_8',['exceptioncallback',['../structModbusMaster.html#ac4901d3860dd137b979ba3a451a4eb44',1,'ModbusMaster::exceptionCallback'],['../structModbusSlave.html#a1b7a8b269856777d1f5395cd9957f11f',1,'ModbusSlave::exceptionCallback']]],
-  ['exceptioncode_9',['exceptionCode',['../structModbusRegisterCallbackResult.html#ace247f046fbae54243e8303a295ec2f8',1,'ModbusRegisterCallbackResult']]]
+  ['exception_20callback_7',['Exception callback',['../master.html#master-exception-callback',1,'']]],
+  ['exception_20callback_8',['Slave exception callback',['../slave.html#slave-exception-callback',1,'']]],
+  ['exceptioncallback_9',['exceptionCallback',['../structModbusMaster.html#ac4901d3860dd137b979ba3a451a4eb44',1,'ModbusMaster::exceptionCallback'],['../structModbusSlave.html#a1b7a8b269856777d1f5395cd9957f11f',1,'ModbusSlave::exceptionCallback']]],
+  ['exceptioncode_10',['exceptionCode',['../structModbusRegisterCallbackResult.html#ace247f046fbae54243e8303a295ec2f8',1,'ModbusRegisterCallbackResult']]]
 ];
